@@ -158,7 +158,8 @@ Principle    →   Depth over breadth. Systems over hype. Build things that last
 | LinkedIn | linkedin.com/in/somesh-bharathwaj-35b413212 |
 | GitHub | github.com/someshbharathwaj-ops |
 | Instagram | @YOUR_INSTAGRAM_ID |
-| Phone / WhatsApp | +91 XXXXXXXXXX |
+| Phone / WhatsApp | +91 9385657645  |
+| Alt Ph           | +91 9345448549  |
 
 *Open to research collaborations, interesting problems, and conversations about AI systems.*
 
