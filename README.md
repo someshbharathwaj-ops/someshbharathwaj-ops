@@ -13,17 +13,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ACHIEVEMENTS / TROPHIES — fills empty space beside profile pic -->
-<div align="center">
-
-### Achievements
-
-<img src="https://github-profile-trophy.vercel.app/?username=someshbharathwaj-ops&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="trophies"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 <!-- ABOUT + CURRENT WORK side by side -->
 <table width="100%">
 <tr>
@@ -125,8 +114,8 @@ AI + embedded systems for institutional accountability. Designed from the ground
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=someshbharathwaj-ops&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7EB8F7&icon_color=6c63ff&text_color=c9d1d9&ring_color=4c8eda&count_private=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=someshbharathwaj-ops&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7EB8F7&text_color=c9d1d9&langs_count=6"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=someshbharathwaj-ops&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7EB8F7&icon_color=6c63ff&text_color=c9d1d9&ring_color=4c8eda&count_private=true&include_all_commits=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=someshbharathwaj-ops&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7EB8F7&text_color=c9d1d9&langs_count=6&hide_progress=false"/>
 
 </div>
 
