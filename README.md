@@ -2,25 +2,29 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Somesh%20Bharathwaj&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Systems%20%C2%B7%20RAG%20%C2%B7%20Applied%20ML&descAlignY=55&descSize=16" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3500&pause=1200&color=7EB8F7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=60&lines=B.Tech+CSE+%40+Amrita+%7C+BS+Data+Science+%26+AI+%40+IIT+Madras;Building+systems+that+retrieve%2C+reason%2C+and+improve.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3500&pause=1200&color=7EB8F7&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=70&lines=B.Tech+CSE+%40+Amrita+%7C+BS+Data+Science+%26+AI+%40+IIT+Madras;Building+systems+that+retrieve%2C+reason%2C+and+improve.;Fundamentals-first.+Always.)](https://git.io/typing-svg)
 
-<img src="https://img.shields.io/badge/Focus-AI%20Systems-0d1117?style=for-the-badge&labelColor=0d1117&color=4c8eda"/>
-<img src="https://img.shields.io/badge/Focus-RAG%20Pipelines-0d1117?style=for-the-badge&labelColor=0d1117&color=6c63ff"/>
-<img src="https://img.shields.io/badge/Focus-Applied%20ML-0d1117?style=for-the-badge&labelColor=0d1117&color=00b4d8"/>
-<img src="https://img.shields.io/badge/Location-India-0d1117?style=for-the-badge&labelColor=0d1117&color=38b2ac"/>
+<img src="https://img.shields.io/badge/AI%20Systems-0d1117?style=for-the-badge&labelColor=0d1117&color=4c8eda"/>
+<img src="https://img.shields.io/badge/RAG%20Pipelines-0d1117?style=for-the-badge&labelColor=0d1117&color=6c63ff"/>
+<img src="https://img.shields.io/badge/Applied%20ML-0d1117?style=for-the-badge&labelColor=0d1117&color=00b4d8"/>
+<img src="https://img.shields.io/badge/India-0d1117?style=for-the-badge&labelColor=0d1117&color=38b2ac"/>
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- TROPHIES — renders beside profile pic naturally on GitHub -->
+<!-- ACHIEVEMENTS / TROPHIES — fills empty space beside profile pic -->
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=someshbharathwaj-ops&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" width="100%"/>
+
+### Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=someshbharathwaj-ops&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="trophies"/>
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ABOUT + CURRENT WORK side by side — reduces vertical length -->
+<!-- ABOUT + CURRENT WORK side by side -->
 <table width="100%">
 <tr>
 <td width="55%" valign="top">
@@ -127,10 +131,9 @@ AI + embedded systems for institutional accountability. Designed from the ground
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=someshbharathwaj-ops&theme=tokyonight&hide_border=true&background=0d1117&ring=4c8eda&fire=6c63ff&currStreakLabel=7EB8F7"/>
+<img src="https://streak-stats.demolab.com?user=someshbharathwaj-ops&theme=tokyonight&hide_border=true&background=0d1117&ring=4c8eda&fire=6c63ff&currStreakLabel=7EB8F7&sideLabels=7EB8F7&dates=c9d1d9"/>
 </div>
 
-<!-- CONTRIBUTION ACTIVITY GRAPH — the green commits grid -->
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=someshbharathwaj-ops&bg_color=0d1117&color=7EB8F7&line=4c8eda&point=6c63ff&area=true&area_color=1a1a4e&hide_border=true" width="100%"/>
 </div>
@@ -148,11 +151,25 @@ Principle    →   Depth over breadth. Systems over hype. Build things that last
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+## Connect
+
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/somesh-bharathwaj-35b413212)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/someshbharathwaj-ops)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:somesh.k.bharathwaj@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:somesh.k.bharathwaj@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E1306C)](https://instagram.com/YOUR_INSTAGRAM_ID)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-0d1117?style=for-the-badge&logo=whatsapp&logoColor=25D366)](https://wa.me/91XXXXXXXXXX)
+
+<br/>
+
+| Platform | Handle / Contact |
+|---|---|
+| Email | somesh.k.bharathwaj@gmail.com |
+| LinkedIn | linkedin.com/in/somesh-bharathwaj-35b413212 |
+| GitHub | github.com/someshbharathwaj-ops |
+| Instagram | @YOUR_INSTAGRAM_ID |
+| Phone / WhatsApp | +91 XXXXXXXXXX |
 
 *Open to research collaborations, interesting problems, and conversations about AI systems.*
 
