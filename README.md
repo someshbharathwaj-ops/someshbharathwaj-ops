@@ -148,14 +148,14 @@ I follow a deliberate, fundamentals-first approach — understanding *why* befor
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=someshbharath&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7EB8F7&icon_color=6c63ff&text_color=c9d1d9&ring_color=4c8eda"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=someshbharath&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7EB8F7&text_color=c9d1d9&langs_count=6"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=someshbharathwaj-ops&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7EB8F7&icon_color=6c63ff&text_color=c9d1d9&ring_color=4c8eda"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=someshbharathwaj-ops&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7EB8F7&text_color=c9d1d9&langs_count=6"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=someshbharath&theme=tokyonight&hide_border=true&background=0d1117&ring=4c8eda&fire=6c63ff&currStreakLabel=7EB8F7"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=someshbharathwaj-ops&theme=tokyonight&hide_border=true&background=0d1117&ring=4c8eda&fire=6c63ff&currStreakLabel=7EB8F7"/>
 
 </div>
 
@@ -163,7 +163,7 @@ I follow a deliberate, fundamentals-first approach — understanding *why* befor
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=someshbharath&bg_color=0d1117&color=7EB8F7&line=4c8eda&point=6c63ff&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=someshbharathwaj-ops&bg_color=0d1117&color=7EB8F7&line=4c8eda&point=6c63ff&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -185,8 +185,8 @@ Principle    →   Depth over breadth. Systems over hype. Build things that last
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/someshbharath)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/someshbharath)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:somesh@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/someshbharathwaj-ops)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:somesh.k.bharathwaj@gmail.com)
 
 <br/>
 
