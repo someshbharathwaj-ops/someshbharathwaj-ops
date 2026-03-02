@@ -51,7 +51,7 @@ AI + embedded systems for institutional accountability. Designed from the ground
 <tr>
 <td><b>Invoice Extractor</b></td>
 <td>Document processing pipeline for structured extraction from invoices. Handles layout variation and field normalization.</td>
-<td><img src="https://img.shields.io/badge/Completed-38b2ac?style=flat-square"/></td>
+<td><img src="https://img.shields.io/badge/In%20Progress-6c63ff?style=flat-square"/></td>
 <td>Python · OCR · NLP</td>
 </tr>
 <tr>
