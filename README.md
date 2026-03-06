@@ -1,71 +1,101 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,12,24,30&height=200&section=header&text=Somesh%20Bharathwaj&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Systems%20%E2%80%A2%20RAG%20Pipelines%20%E2%80%A2%20Applied%20ML&descAlignY=60&descSize=17&stroke=ffffff&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020010,30:0d0630,60:1a0a4a,100:0d0630&height=230&section=header&text=Somesh%20Bharathwaj&fontSize=55&fontColor=C4B5FD&animation=twinkling&fontAlignY=40&desc=AI%20Engineer%20%7C%20ML%20Researcher%20%7C%20RAG%20Architect&descAlignY=62&descSize=19&descColor=818CF8&stroke=7C3AED&strokeWidth=2" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=80&lines=B.Tech+CSE+%40+Amrita+%7C+BS+Data+Science+%26+AI+%40+IIT+Madras;Building+systems+that+retrieve%2C+reason%2C+and+improve.;Depth+over+breadth.+Systems+over+hype.+Build+things+that+last.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=800&color=C4B5FD&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=55&lines=Building+Intelligent+Systems+from+First+Principles.;RAG+%7C+LLMs+%7C+Embeddings+%7C+Applied+ML.;B.Tech+CSE+%40+Amrita+%7C+BS+DS%26AI+%40+IIT+Madras.;Depth+over+breadth.+Always.)](https://git.io/typing-svg)
 
 <br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🤖%20AI%20Systems-Builder-00D9FF?style=for-the-badge&labelColor=0a0a0f&color=00D9FF"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/🔍%20RAG%20Pipelines-Architect-7B61FF?style=for-the-badge&labelColor=0a0a0f&color=7B61FF"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/🧠%20Applied%20ML-Engineer-00FFB3?style=for-the-badge&labelColor=0a0a0f&color=00FFB3"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/📍%20India-Tamil%20Nadu-FF6B6B?style=for-the-badge&labelColor=0a0a0f&color=FF6B6B"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=someshbharathwaj-ops&label=Profile+Views&color=00D9FF&style=for-the-badge&labelColor=0a0a0f"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/someshbharathwaj-ops?label=Followers&style=for-the-badge&color=7B61FF&labelColor=0a0a0f&logo=github"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Focus-Retrieval%20Systems-00FFB3?style=for-the-badge&labelColor=0a0a0f"/>
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=someshbharathwaj-ops&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge&labelColor=0d0630)
+&nbsp;
+![Followers](https://img.shields.io/github/followers/someshbharathwaj-ops?label=FOLLOWERS&style=for-the-badge&color=818CF8&labelColor=0d0630&logo=github&logoColor=C4B5FD)
+&nbsp;
+![Focus](https://img.shields.io/badge/FOCUS-AI%20%7C%20ML%20%7C%20RAG-7C3AED?style=for-the-badge&labelColor=0d0630)
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## ⚡ About
+## `$ whoami`
 
 <table width="100%">
 <tr>
-<td width="55%" valign="top">
+<td width="50%" valign="top">
 
-CS student, dual-degree — **B.Tech CSE @ Amrita** and **BS Data Science & AI @ IIT Madras**.
+```python
+class SomeshBharathwaj:
 
-Work sits at the intersection of **retrieval systems**, **applied ML**, and **algorithmic thinking**. I build things that actually work — clean architecture, measurable behavior, fundamentals first.
+    role = "AI / ML Engineer & Researcher"
 
-**Philosophy:** Depth over breadth. Systems over hype. Build things that last.
+    education = {
+        "B.Tech" : "CSE @ Amrita University",
+        "BS"     : "Data Science & AI @ IIT Madras"
+    }
+
+    core_focus = [
+        "Large Language Models (LLMs)",
+        "Retrieval-Augmented Generation",
+        "Embedding Models & Vector Search",
+        "Applied Machine Learning",
+        "ML Systems Design"
+    ]
+
+    currently_building = [
+        "RAG System @ Evolab",
+        "Invoice Extractor (Doc AI)",
+        "RFID Accountability System"
+    ]
+
+    goal  = "MS/MTech → Germany or AI Research Hub"
+    motto = "Depth > Breadth.  Systems > Hype."
+```
 
 </td>
-<td width="45%" valign="top">
+<td width="50%" valign="top">
 
-### 🔨 Currently Building
+### 🔭 Active Build Log
 
 ```yaml
-active:
-  - RAG System @ Evolab
-    desc: Chunking, indexing, eval logic
-    status: In Progress 🔥
+RAG System — Evolab:
+  focus:  Chunking · Indexing · Eval Logic
+  status: ████████░░  80%  🔥 In Progress
 
-  - Invoice Extractor
-    desc: Structured doc processing
-    status: In Progress ⚡
+Invoice Extractor:
+  focus:  Doc AI · OCR · Field Normalization
+  status: █████░░░░░  50%  ⚡ Active
 
-long_term:
-  - RFID Accountability System
-    desc: AI + embedded for institutions
-    status: Planning 🗺️
+RFID Accountability System:
+  focus:  AI + Embedded · Institutional Infra
+  status: ██░░░░░░░░  20%  🗺️ Planning
+
+Algorithms — Univ. of Colorado (Coursera):
+  focus:  Graph Algos · Optimization · Theory
+  status: ██████░░░░  60%  📚 Ongoing
 ```
 
 </td>
 </tr>
 </table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🧠 AI / ML Focus Areas
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║   🔍 Retrieval Systems     🤖 LLMs & Prompting    📐 ML Theory       ║
+║   📦 Embedding Models      🧩 RAG Architecture    🔧 MLOps Basics    ║
+║   📊 Vector Databases      ⚙️  Fine-Tuning          🧮 Optimization  ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -75,9 +105,9 @@ long_term:
 
 | 🏗️ Project | 📋 Description | 🏷️ Status | 🛠️ Stack |
 |---|---|:---:|---|
-| **Invoice Extractor** | Document processing pipeline for structured extraction. Handles layout variation and field normalization. | ![In Progress](https://img.shields.io/badge/⚡%20In%20Progress-7B61FF?style=flat-square&labelColor=0a0a0f) | `Python` `OCR` `NLP` |
-| **RAG System — Evolab** | Full RAG pipeline with custom evaluation logic. Improving retrieval precision & generation quality. | ![Active](https://img.shields.io/badge/🔥%20Active-00D9FF?style=flat-square&labelColor=0a0a0f) | `Python` `LangChain` `VectorDB` |
-| **RFID Accountability** | AI + embedded systems for real-world institutional tracking infrastructure. | ![Planning](https://img.shields.io/badge/🗺️%20Planning-00FFB3?style=flat-square&labelColor=0a0a0f) | `Python` `Embedded` `AI` |
+| **RAG System — Evolab** | Full RAG pipeline with custom eval logic. Improving retrieval precision and generation quality end-to-end. | ![](https://img.shields.io/badge/🔥_In_Progress-7C3AED?style=flat-square&labelColor=0d0630) | `Python` `LangChain` `VectorDB` `LLMs` |
+| **Invoice Extractor** | Document AI pipeline for structured extraction from invoices. Handles layout variance and field normalization. | ![](https://img.shields.io/badge/⚡_Active-818CF8?style=flat-square&labelColor=0d0630) | `Python` `OCR` `NLP` `Transformers` |
+| **RFID Accountability** | AI + embedded systems for institutional tracking. Designed from ground up for real-world reliability. | ![](https://img.shields.io/badge/🗺️_Planning-4C1D95?style=flat-square&labelColor=0d0630) | `Python` `Embedded` `AI` |
 
 </div>
 
@@ -87,24 +117,28 @@ long_term:
 
 <div align="center">
 
-### Languages
-![Python](https://img.shields.io/badge/Python-0a0a0f?style=for-the-badge&logo=python&logoColor=3776AB)
-![C++](https://img.shields.io/badge/C++-0a0a0f?style=for-the-badge&logo=cplusplus&logoColor=00599C)
-![SQL](https://img.shields.io/badge/SQL-0a0a0f?style=for-the-badge&logo=postgresql&logoColor=336791)
+**Core Languages**
 
-### AI / ML
-![PyTorch](https://img.shields.io/badge/PyTorch-0a0a0f?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0a0a0f?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
-![LangChain](https://img.shields.io/badge/LangChain-0a0a0f?style=for-the-badge&logo=chainlink&logoColor=375BD2)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-0a0a0f?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
+![Python](https://img.shields.io/badge/Python-0d0630?style=for-the-badge&logo=python&logoColor=C4B5FD)
+![C++](https://img.shields.io/badge/C++-0d0630?style=for-the-badge&logo=cplusplus&logoColor=818CF8)
+![SQL](https://img.shields.io/badge/SQL-0d0630?style=for-the-badge&logo=postgresql&logoColor=C4B5FD)
 
-### Data & Tools
-![NumPy](https://img.shields.io/badge/NumPy-0a0a0f?style=for-the-badge&logo=numpy&logoColor=013243)
-![Pandas](https://img.shields.io/badge/Pandas-0a0a0f?style=for-the-badge&logo=pandas&logoColor=150458)
-![Git](https://img.shields.io/badge/Git-0a0a0f?style=for-the-badge&logo=git&logoColor=F05032)
-![Linux](https://img.shields.io/badge/Linux-0a0a0f?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Jupyter](https://img.shields.io/badge/Jupyter-0a0a0f?style=for-the-badge&logo=jupyter&logoColor=F37626)
-![VS Code](https://img.shields.io/badge/VS%20Code-0a0a0f?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+**AI / ML / DL**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-0d0630?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0d0630?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0d0630?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
+![LangChain](https://img.shields.io/badge/LangChain-0d0630?style=for-the-badge&logo=chainlink&logoColor=818CF8)
+![OpenAI](https://img.shields.io/badge/OpenAI-0d0630?style=for-the-badge&logo=openai&logoColor=C4B5FD)
+
+**Data & Dev Tools**
+
+![NumPy](https://img.shields.io/badge/NumPy-0d0630?style=for-the-badge&logo=numpy&logoColor=4DABCF)
+![Pandas](https://img.shields.io/badge/Pandas-0d0630?style=for-the-badge&logo=pandas&logoColor=a5b4fc)
+![Jupyter](https://img.shields.io/badge/Jupyter-0d0630?style=for-the-badge&logo=jupyter&logoColor=F37626)
+![Git](https://img.shields.io/badge/Git-0d0630?style=for-the-badge&logo=git&logoColor=F05032)
+![Linux](https://img.shields.io/badge/Linux-0d0630?style=for-the-badge&logo=linux&logoColor=FCC624)
+![VS Code](https://img.shields.io/badge/VS%20Code-0d0630?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 
 </div>
 
@@ -114,31 +148,22 @@ long_term:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=someshbharathwaj-ops&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=00D9FF&icon_color=7B61FF&text_color=c9d1d9&ring_color=00D9FF&count_private=true&include_all_commits=true&show=reviews,discussions_started,prs_merged"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=someshbharathwaj-ops&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=00D9FF&text_color=c9d1d9&langs_count=7"/>
+<img height="185em" src="https://github-readme-stats.vercel.app/api?username=someshbharathwaj-ops&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0630&title_color=C4B5FD&icon_color=7C3AED&text_color=a5b4fc&ring_color=7C3AED&count_private=true&include_all_commits=true"/>
+&nbsp;
+<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=someshbharathwaj-ops&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0630&title_color=C4B5FD&text_color=a5b4fc&langs_count=7"/>
 
 </div>
 
 <br/>
-
-<!-- ══════════════════════════════════════════════════════════
-     STREAK SECTION — DUAL GMAIL ACCOUNTS
-     Primary account:   someshbharathwaj-ops (somesh.k.bharathwaj@gmail.com)
-     Secondary account: someshbharathwaj (someshbharathwaj@gmail.com)
-     
-     TIP: Link both Gmail accounts to a single GitHub account:
-     GitHub → Settings → Emails → Add email address
-     This merges all commits from both emails into one streak counter.
-     ══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 ### 🔥 Contribution Streak
 
-> ℹ️ **Both Gmail accounts linked to this GitHub** — commits from `somesh.k.bharathwaj@gmail.com` & `someshbharathwaj@gmail.com` are tracked together for an unbroken streak.
+<!-- Streak tracks commits from both Gmail accounts once linked in GitHub Settings → Emails -->
+<!-- somesh.k.bharathwaj@gmail.com  (primary)  +  someshbharathwaj@gmail.com  (alternate)  -->
 
-<img src="https://streak-stats.demolab.com?user=someshbharathwaj-ops&theme=tokyonight&hide_border=true&background=0a0a0f&ring=00D9FF&fire=7B61FF&currStreakLabel=00D9FF&sideLabels=00FFB3&dates=c9d1d9&sideNums=ffffff&currStreakNum=ffffff&stroke=00D9FF00&border=00D9FF20" width="700"/>
+<img src="https://streak-stats.demolab.com?user=someshbharathwaj-ops&theme=tokyonight-duo&hide_border=true&background=0d0630&ring=7C3AED&fire=C4B5FD&currStreakLabel=C4B5FD&sideLabels=818CF8&dates=a5b4fc&sideNums=C4B5FD&currStreakNum=ffffff&border=7C3AED20&mode=weekly&exclude_days=Sun" width="700"/>
 
 </div>
 
@@ -146,29 +171,32 @@ long_term:
 
 <div align="center">
 
-### 📈 Activity Graph
+### 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=someshbharathwaj-ops&bg_color=0a0a0f&color=00D9FF&line=7B61FF&point=00FFB3&area=true&area_color=00D9FF15&hide_border=true&radius=8" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=someshbharathwaj-ops&bg_color=0d0630&color=C4B5FD&line=7C3AED&point=818CF8&area=true&area_color=7C3AED20&hide_border=true&radius=6&custom_title=Somesh's%20Contribution%20Graph" width="100%"/>
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📚 Learning & Coursework
+## 📚 Learning Roadmap
 
 <details>
-<summary><b>🎯 Click to expand — Active Study Areas</b></summary>
+<summary><b>🎯 Coursework & Active Study Areas — Click to expand</b></summary>
 <br/>
 
 | 📖 Course / Topic | 🏫 Source | 🏷️ Status |
-|---|---|:---:|
-| Algorithms | University of Colorado (Coursera) | ![In Progress](https://img.shields.io/badge/In%20Progress-00D9FF?style=flat-square&labelColor=0a0a0f) |
-| Data Analysis with Python | Self-directed | ![In Progress](https://img.shields.io/badge/In%20Progress-00D9FF?style=flat-square&labelColor=0a0a0f) |
-| Introduction to RAG | — | ![Completed](https://img.shields.io/badge/✅%20Completed-00FFB3?style=flat-square&labelColor=0a0a0f) |
-| ML Fundamentals | Self-directed | ![Ongoing](https://img.shields.io/badge/Ongoing-7B61FF?style=flat-square&labelColor=0a0a0f) |
+|:---|:---|:---:|
+| Algorithms | University of Colorado — Coursera | ![](https://img.shields.io/badge/In%20Progress-7C3AED?style=flat-square&labelColor=0d0630) |
+| Data Analysis with Python | Self-directed | ![](https://img.shields.io/badge/In%20Progress-7C3AED?style=flat-square&labelColor=0d0630) |
+| Introduction to RAG | — | ![](https://img.shields.io/badge/✅%20Completed-4C1D95?style=flat-square&labelColor=0d0630) |
+| ML Fundamentals | Self-directed | ![](https://img.shields.io/badge/Ongoing-818CF8?style=flat-square&labelColor=0d0630) |
+| Embedding Models & Dense Retrieval | Self-directed | ![](https://img.shields.io/badge/Ongoing-818CF8?style=flat-square&labelColor=0d0630) |
 
-**Active focus areas:**
-`Retrieval Systems` · `Embedding Models` · `Dense vs Sparse Retrieval` · `ML Optimization` · `Graph Algorithms` · `Systems Design for Reliability`
+<br/>
+
+**Active deep-dive areas:**
+`LLM Internals` · `RAG Evaluation` · `Dense vs Sparse Retrieval` · `Embedding Fine-tuning` · `Graph Algorithms` · `ML System Design` · `Optimization Theory`
 
 </details>
 
@@ -176,18 +204,22 @@ long_term:
 
 ## 🎯 Goals
 
+<div align="center">
+
 ```
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                     │
-│  Short-term  →  Complete RAG system @ Evolab with solid eval        │
-│  Mid-term    →  Strong ML/algorithms foundation + open-source       │
-│  Long-term   →  Fully funded MS/MTech in Germany or AI research hub │
-│                                                                     │
-│  Principle   →  Depth over breadth. Systems over hype.              │
-│                 Build things that last.                             │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────────────────────────┐
+│                                                                        │
+│  Short-term  ──▶  Ship RAG system @ Evolab with solid eval coverage   │
+│  Mid-term    ──▶  Strong ML/Algo foundation · Meaningful OSS contrib  │
+│  Long-term   ──▶  Fully funded MS/MTech in Germany or equiv AI hub    │
+│                                                                        │
+│  Principle   ──▶  Depth over breadth.  Systems over hype.             │
+│                   Build things that last.                              │
+│                                                                        │
+└────────────────────────────────────────────────────────────────────────┘
 ```
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -195,28 +227,27 @@ long_term:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0f)](https://linkedin.com/in/somesh-bharathwaj-35b413212)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0f)](https://github.com/someshbharathwaj-ops)
-[![Gmail Primary](https://img.shields.io/badge/Gmail%20(Primary)-somesh.k.bharathwaj-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0f)](mailto:somesh.k.bharathwaj@gmail.com)
-[![Gmail Alt](https://img.shields.io/badge/Gmail%20(Alt)-someshbharathwaj-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0f)](mailto:someshbharathwaj@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d0630?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/somesh-bharathwaj-35b413212)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-0d0630?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/someshbharathwaj-ops)
+[![Gmail](https://img.shields.io/badge/Gmail%20(Primary)-0d0630?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:somesh.k.bharathwaj@gmail.com)
+[![Gmail Alt](https://img.shields.io/badge/Gmail%20(Alt)-0d0630?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:someshbharathwaj@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-0d0630?style=for-the-badge&logo=instagram&logoColor=E1306C)](https://instagram.com/YOUR_INSTAGRAM_ID)
 
 <br/>
 
 | Platform | Handle / Contact |
 |:---|:---|
-| 📧 Email (Primary) | somesh.k.bharathwaj@gmail.com |
-| 📧 Email (Alt) | someshbharathwaj@gmail.com |
+| 📧 Primary Email | somesh.k.bharathwaj@gmail.com |
+| 📧 Alternate Email | someshbharathwaj@gmail.com |
 | 💼 LinkedIn | linkedin.com/in/somesh-bharathwaj-35b413212 |
 | 🐙 GitHub | github.com/someshbharathwaj-ops |
-| 📱 Phone / WhatsApp | +91 9385657645 |
+| 📱 WhatsApp | +91 9385657645 |
 | 📱 Alt Phone | +91 9345448549 |
 
 <br/>
 
-*Open to research collaborations, interesting problems, and conversations about AI systems.*
+*Open to research collaborations, ML internships, and conversations about AI systems.*
 
 </div>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,12,24,30&height=100&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0630,50:1a0a4a,100:020010&height=110&section=footer&animation=twinkling" width="100%"/>
