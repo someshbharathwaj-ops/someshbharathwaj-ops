@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020010,30:0d0630,60:1a0a4a,100:0d0630&height=230&section=header&text=Somesh%20Bharathwaj&fontSize=55&fontColor=C4B5FD&animation=twinkling&fontAlignY=40&desc=AI%20Engineer%20%7C%20ML%20Researcher%20%7C%20RAG%20Architect&descAlignY=62&descSize=19&descColor=818CF8&stroke=7C3AED&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:020010,40:0d0630,80:1a0a4a,100:0d0630&height=240&section=header&text=Somesh%20Bharathwaj&fontSize=58&fontColor=C4B5FD&animation=twinkling&fontAlignY=42&desc=AI%20Engineer%20%7C%20ML%20Researcher%20%7C%20RAG%20Architect&descAlignY=63&descSize=20&descColor=A78BFA&stroke=7C3AED&strokeWidth=2.5" width="100%"/>
 
 <br/>
 
@@ -148,9 +148,9 @@ Algorithms — Univ. of Colorado (Coursera):
 
 <div align="center">
 
-<img height="185em" src="https://github-readme-stats.vercel.app/api?username=someshbharathwaj-ops&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0630&title_color=C4B5FD&icon_color=7C3AED&text_color=a5b4fc&ring_color=7C3AED&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=someshbharathwaj-ops&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0630&title_color=C4B5FD&icon_color=7C3AED&text_color=a5b4fc&ring_color=7C3AED&count_private=true&include_all_commits=true&border_radius=12"/>
 &nbsp;
-<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=someshbharathwaj-ops&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0630&title_color=C4B5FD&text_color=a5b4fc&langs_count=7"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=someshbharathwaj-ops&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0630&title_color=C4B5FD&text_color=a5b4fc&langs_count=7&border_radius=12"/>
 
 </div>
 
@@ -159,13 +159,8 @@ Algorithms — Univ. of Colorado (Coursera):
 <div align="center">
 
 ### 🔥 Contribution Streak
-> 📬 Streak counts commits from both **somesh.k.bharathwaj@gmail.com** & **someshbharathwaj@gmail.com** — link both in GitHub → Settings → Emails
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=someshbharathwaj-ops&theme=tokyonight&hide_border=true&background=0d0630&ring=7C3AED&fire=C4B5FD&currStreakLabel=C4B5FD&sideLabels=818CF8&dates=a5b4fc&sideNums=C4B5FD&currStreakNum=ffffff&stroke=7C3AED" width="700"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=someshbharathwaj-ops&theme=tokyonight&hide_border=true&background=0d0630&ring=7C3AED&fire=C4B5FD&currStreakLabel=C4B5FD&sideLabels=818CF8&dates=a5b4fc&sideNums=C4B5FD&currStreakNum=ffffff" width="700"/>
+<img src="https://streak-stats.demolab.com?user=someshbharathwaj-ops&theme=tokyonight&hide_border=true&background=0D0630&ring=7C3AED&fire=C4B5FD&currStreakLabel=C4B5FD&sideLabels=818CF8&dates=a5b4fc&sideNums=C4B5FD&currStreakNum=FFFFFF&border_radius=12" width="700"/>
 
 </div>
 
@@ -175,7 +170,15 @@ Algorithms — Univ. of Colorado (Coursera):
 
 ### 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=someshbharathwaj-ops&bg_color=0d0630&color=C4B5FD&line=7C3AED&point=818CF8&area=true&area_color=7C3AED20&hide_border=true&radius=6&custom_title=Somesh's%20Contribution%20Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=someshbharathwaj-ops&bg_color=0d0630&color=C4B5FD&line=7C3AED&point=818CF8&area=true&area_color=7C3AED20&hide_border=true&radius=8&custom_title=Somesh's%20Contribution%20Graph" width="100%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=someshbharathwaj-ops&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7&title=Stars,Commits,Followers,Reviews,Repositories,MultipleLang,PullRequest"/>
 
 </div>
 
@@ -231,16 +234,14 @@ Algorithms — Univ. of Colorado (Coursera):
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d0630?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/somesh-bharathwaj-35b413212)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-0d0630?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/someshbharathwaj-ops)
-[![Gmail](https://img.shields.io/badge/Gmail%20(Primary)-0d0630?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:somesh.k.bharathwaj@gmail.com)
-[![Gmail Alt](https://img.shields.io/badge/Gmail%20(Alt)-0d0630?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:someshbharathwaj@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Mail%20Me-0d0630?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:somesh.k.bharathwaj@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-0d0630?style=for-the-badge&logo=instagram&logoColor=E1306C)](https://instagram.com/YOUR_INSTAGRAM_ID)
 
 <br/>
 
 | Platform | Handle / Contact |
 |:---|:---|
-| 📧 Primary Email | somesh.k.bharathwaj@gmail.com |
-| 📧 Alternate Email | someshbharathwaj@gmail.com |
+| 📧 Email | somesh.k.bharathwaj@gmail.com |
 | 💼 LinkedIn | linkedin.com/in/somesh-bharathwaj-35b413212 |
 | 🐙 GitHub | github.com/someshbharathwaj-ops |
 | 📱 WhatsApp | +91 9385657645 |
@@ -252,5 +253,5 @@ Algorithms — Univ. of Colorado (Coursera):
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0630,50:1a0a4a,100:020010&height=110&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:020010,40:0d0630,80:1a0a4a,100:020010&height=120&section=footer&animation=twinkling&reversal=true" width="100%"/>
 
