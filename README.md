@@ -159,11 +159,13 @@ Algorithms — Univ. of Colorado (Coursera):
 <div align="center">
 
 ### 🔥 Contribution Streak
+> 📬 Streak counts commits from both **somesh.k.bharathwaj@gmail.com** & **someshbharathwaj@gmail.com** — link both in GitHub → Settings → Emails
 
-<!-- Streak tracks commits from both Gmail accounts once linked in GitHub Settings → Emails -->
-<!-- somesh.k.bharathwaj@gmail.com  (primary)  +  someshbharathwaj@gmail.com  (alternate)  -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=someshbharathwaj-ops&theme=tokyonight&hide_border=true&background=0d0630&ring=7C3AED&fire=C4B5FD&currStreakLabel=C4B5FD&sideLabels=818CF8&dates=a5b4fc&sideNums=C4B5FD&currStreakNum=ffffff&stroke=7C3AED" width="700"/>
 
-<img src="https://streak-stats.demolab.com?user=someshbharathwaj-ops&theme=tokyonight-duo&hide_border=true&background=0d0630&ring=7C3AED&fire=C4B5FD&currStreakLabel=C4B5FD&sideLabels=818CF8&dates=a5b4fc&sideNums=C4B5FD&currStreakNum=ffffff&border=7C3AED20&mode=weekly&exclude_days=Sun" width="700"/>
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=someshbharathwaj-ops&theme=tokyonight&hide_border=true&background=0d0630&ring=7C3AED&fire=C4B5FD&currStreakLabel=C4B5FD&sideLabels=818CF8&dates=a5b4fc&sideNums=C4B5FD&currStreakNum=ffffff" width="700"/>
 
 </div>
 
@@ -251,3 +253,4 @@ Algorithms — Univ. of Colorado (Coursera):
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0630,50:1a0a4a,100:020010&height=110&section=footer&animation=twinkling" width="100%"/>
+
