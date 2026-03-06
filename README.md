@@ -92,35 +92,26 @@ class SomeshBharathwaj:
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=someshbharathwaj-ops&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true&rank_icon=github" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=someshbharathwaj-ops&layout=compact&theme=tokyonight&hide_border=false&langs_count=7" height="180"/>
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=someshbharathwaj-ops&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=someshbharathwaj-ops&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </div>
 
 <br/>
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=someshbharathwaj-ops&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" height="180"/>
-
+  <img width="70%" src="https://github-readme-streak-stats-salesp07.vercel.app?user=someshbharathwaj-ops&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=600"/>
 </div>
 
 <br/>
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=someshbharathwaj-ops&theme=tokyo-night&hide_border=false&area=true&custom_title=Contribution%20Graph" width="95%"/>
-
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=someshbharathwaj-ops&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph"/>
 </div>
 
 <br/>
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=someshbharathwaj-ops&theme=tokyonight&no-frame=false&margin-w=6&column=7"/>
-
+  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=someshbharathwaj-ops&theme=tokyonight&no-frame=true&margin-w=8&column=7"/>
 </div>
 
 ---
@@ -178,4 +169,3 @@ Principle   →  Depth over breadth.  Systems over hype.  Build things that last
 <br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=twinkling"/>
-
