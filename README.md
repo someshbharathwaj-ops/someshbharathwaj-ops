@@ -1,56 +1,95 @@
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--                    SOMESH BHARATHWAJ · README.md                    -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!-- ██████████████████████████████████████████████████████████████████ -->
+<!--              SOMESH BHARATHWAJ  ·  README.md  ·  rev 2025.03      -->
+<!-- ██████████████████████████████████████████████████████████████████ -->
 
-<!-- ╔══════════════  HEADER — vortex type, deep space palette  ══════╗ -->
+
+<!-- ┌──────────────────────────────────────────────────────────────┐  -->
+<!--   LEVEL 1 MOTION  ·  HERO HEADER  ·  cylinder type             -->
+<!-- └──────────────────────────────────────────────────────────────┘  -->
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000005,20:06001a,50:130040,80:06001a,100:000005&height=300&section=header&text=SOMESH%20BHARATHWAJ&fontSize=55&fontColor=e9d5ff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20ML%20Researcher%20%E2%80%A2%20RAG%20Architect&descSize=16&descColor=9d77e8&descAlignY=57&stroke=6d28d9&strokeWidth=2"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000008,40:08002a,70:14005c,100:000008&height=280&section=header&text=SOMESH%20BHARATHWAJ&fontSize=52&fontColor=ddd6fe&animation=blinking&fontAlignY=45&desc=AI%20Engineer%20%E2%80%A2%20ML%20Researcher%20%E2%80%A2%20RAG%20Architect&descSize=15&descColor=8b5cf6&descAlignY=63&stroke=4c1d95&strokeWidth=1"/>
 </div>
 
-<!-- ╔══════════════  ANIMATED TYPING  ══════════════════════════════╗ -->
+
+<!-- ┌──────────────────────────────────────────────────────────────┐  -->
+<!--   LEVEL 2 MOTION  ·  TERMINAL TYPING  ·  Fira Code             -->
+<!-- └──────────────────────────────────────────────────────────────┘  -->
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=4000&pause=800&color=9D77E8&center=true&vCenter=true&random=false&width=750&height=30&lines=›+Building+production+RAG+systems+from+first+principles;›+LLMs+·+Embeddings+·+Vector+Search+·+Eval+Pipelines;›+B.Tech+CSE+%40+Amrita+·+BS+DS%26AI+%40+IIT+Madras;›+Depth+over+breadth.+Systems+over+hype.+⚡"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=4200&pause=900&color=7C3AED&center=true&vCenter=true&random=false&width=720&height=28&lines=_+Building+production+RAG+systems+from+first+principles;_+LLMs+·+Embeddings+·+Vector+Search+·+Evaluation+Pipelines;_+B.Tech+CSE+@+Amrita+·+BS+DS%26AI+@+IIT+Madras;_+Depth+over+breadth.+Systems+over+hype."/>
   </a>
 </div>
 
 <br/>
 
-<!-- ╔══════════════  BADGE ROW  ════════════════════════════════════╗ -->
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=someshbharathwaj-ops&label=Profile+Views&color=6d28d9&style=flat-square&labelColor=06001a"/>
+  <img src="https://komarev.com/ghpvc/?username=someshbharathwaj-ops&label=profile.views&color=4c1d95&style=flat-square&labelColor=000008"/>
   &nbsp;
-  <img src="https://img.shields.io/github/followers/someshbharathwaj-ops?label=Followers&style=flat-square&color=6d28d9&labelColor=06001a&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/github/followers/someshbharathwaj-ops?label=followers&style=flat-square&color=4c1d95&labelColor=000008&logo=github&logoColor=7c3aed"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/AI%20%7C%20ML%20%7C%20RAG-6d28d9?style=flat-square&labelColor=06001a&label=Focus"/>
+  <img src="https://img.shields.io/badge/focus-AI%20·%20ML%20·%20RAG-4c1d95?style=flat-square&labelColor=000008"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Open%20to%20Collabs%20%26%20Internships-16a34a?style=flat-square&labelColor=06001a&label=Status"/>
+  <img src="https://img.shields.io/badge/status-open%20to%20collabs%20%26%20internships-166534?style=flat-square&labelColor=000008"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/MS%2FMTech%20%E2%86%92%20Germany-d97706?style=flat-square&labelColor=06001a&label=Goal"/>
+  <img src="https://img.shields.io/badge/target-MS%2FMTech%20→%20Germany-92400e?style=flat-square&labelColor=000008"/>
 </div>
 
 <br/>
 
-<!-- ════════════════  SEPARATOR — SNAKE ANIMATION  ════════════════ -->
+
+<!-- ┌──────────────────────────────────────────────────────────────┐  -->
+<!--   LEVEL 1 MOTION  ·  NEURAL SIGNAL TELEMETRY                   -->
+<!--   snake contribution grid  ·  framed as system dashboard        -->
+<!-- └──────────────────────────────────────────────────────────────┘  -->
+
+<div align="center">
+
+<table width="96%" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+
+```
+ CONTRIBUTION SIGNAL STREAM  ·  someshbharathwaj-ops  ·  live feed
+ ─────────────────────────────────────────────────────────────────────
+```
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img alt="neural-signal-stream" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
-<!-- ╔══════════════  ABOUT — IDENTITY MODULE  ══════════════════════╗ -->
+```
+ ─────────────────────────────────────────────────────────────────────
+ signal: commit activity  ·  node traversal: active  ·  stream: live
+```
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <br/>
+
+<!-- ─────────────────────  SOFT DIVIDER  ──────────────────────────── -->
+<div align="center"><img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-000008?style=flat-square&labelColor=000008"/></div>
+
+<br/>
+
+
+<!-- ┌──────────────────────────────────────────────────────────────┐  -->
+<!--   LEVEL 3 STATIC  ·  IDENTITY MODULE                           -->
+<!-- └──────────────────────────────────────────────────────────────┘  -->
 
 <div align="center">
 
 ```
-╔─────────────────────────────────────────────────────────────────────╗
-  IDENTITY MODULE  ·  rev 2025.03  ·  somesh.bharathwaj
-╚─────────────────────────────────────────────────────────────────────╝
+  ╔══════════════════════════════════════════════════════════════════╗
+  ║  IDENTITY MODULE  ·  rev 2025.03  ·  somesh.bharathwaj          ║
+  ╚══════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -60,9 +99,9 @@
 <td width="52%" valign="top">
 
 ```python
-# ──────────────────────────────────────────────
+# ────────────────────────────────────────────────
 #  core.identity  ·  AI/ML Engineer
-# ──────────────────────────────────────────────
+# ────────────────────────────────────────────────
 
 class SomeshBharathwaj:
     """
@@ -84,9 +123,9 @@ class SomeshBharathwaj:
     ]
 
     building_now = {
-        "RAG Pipeline"   : "Evolab       ████████░░  80%",
-        "Doc Extractor"  : "Invoice AI   █████░░░░░  50%",
-        "RFID System"    : "Embedded AI  ██░░░░░░░░  20%",
+        "RAG Pipeline"  : "Evolab      ████████░░  80%",
+        "Doc Extractor" : "Invoice AI  █████░░░░░  50%",
+        "RFID System"   : "Embedded    ██░░░░░░░░  20%",
     }
 
     ambition = "MS/MTech  ·  Germany AI Research Hub"
@@ -102,23 +141,23 @@ class SomeshBharathwaj:
 **`▸ ACTIVE BUILD LOG`**
 
 ```
-┌─────────────────────────────────────────┐
-│  ◉  RAG PIPELINE — EVOLAB           🔥 │
-│     Chunking · Indexing · Evaluation    │
-│     ████████░░░  80%  IN PROGRESS       │
-├─────────────────────────────────────────┤
-│  ◉  INVOICE EXTRACTOR               ⚡ │
-│     Doc AI · OCR · NLP · Norm.          │
-│     █████░░░░░░  50%  ACTIVE            │
-├─────────────────────────────────────────┤
-│  ◎  RFID ACCOUNTABILITY SYSTEM      🗺️ │
-│     AI · Embedded · Scale               │
-│     ██░░░░░░░░░  20%  PLANNING          │
-├─────────────────────────────────────────┤
-│  ◎  ALGORITHMS — COURSERA (CU)      📚 │
-│     Graphs · DP · Optimization          │
-│     ██████░░░░░  60%  ONGOING           │
-└─────────────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│  ◉  RAG PIPELINE — EVOLAB            🔥 │
+│     Chunking · Indexing · Evaluation     │
+│     ████████░░░  80%  IN PROGRESS        │
+├──────────────────────────────────────────┤
+│  ◉  INVOICE EXTRACTOR                ⚡ │
+│     Doc AI · OCR · NLP · Norm.           │
+│     █████░░░░░░  50%  ACTIVE             │
+├──────────────────────────────────────────┤
+│  ◎  RFID ACCOUNTABILITY SYSTEM       🗺️ │
+│     AI · Embedded · Scale                │
+│     ██░░░░░░░░░  20%  PLANNING           │
+├──────────────────────────────────────────┤
+│  ◎  ALGORITHMS — COURSERA (CU)       📚 │
+│     Graphs · DP · Optimization           │
+│     ██████░░░░░  60%  ONGOING            │
+└──────────────────────────────────────────┘
 ```
 
 **`▸ SYSTEM VITALS`**
@@ -135,13 +174,15 @@ class SomeshBharathwaj:
 
 <br/>
 
-<!-- ════════════════  SEPARATOR — GRADIENT RULED LINE  ════════════ -->
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-<!-- ╔══════════════  AI / ML DOMAIN MATRIX  ════════════════════════╗ -->
+<!-- ─────────────────────  SOFT DIVIDER  ──────────────────────────── -->
+<div align="center"><img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-000008?style=flat-square&labelColor=000008"/></div>
 
 <br/>
+
+
+<!-- ┌──────────────────────────────────────────────────────────────┐  -->
+<!--   LEVEL 3 STATIC  ·  RESEARCH DOMAINS                          -->
+<!-- └──────────────────────────────────────────────────────────────┘  -->
 
 <div align="center">
 
@@ -150,47 +191,39 @@ class SomeshBharathwaj:
 <table width="92%">
 <tr>
 <td align="center" width="25%">
-  <img src="https://img.shields.io/badge/─────────────────-06001a?style=for-the-badge"/>
-  <br/>
-  <img src="https://img.shields.io/badge/🔍%20RETRIEVAL%20SYSTEMS-130040?style=for-the-badge&logoColor=white"/>
-  <br/><sub><sup>Dense · Sparse · Hybrid · ANN</sup></sub>
+  <img src="https://img.shields.io/badge/🔍%20RETRIEVAL%20SYSTEMS-08002a?style=for-the-badge"/>
+  <br/><sub>Dense · Sparse · Hybrid · ANN</sub>
 </td>
 <td align="center" width="25%">
-  <img src="https://img.shields.io/badge/─────────────────-06001a?style=for-the-badge"/>
-  <br/>
-  <img src="https://img.shields.io/badge/🤖%20LLMs%20%26%20AGENTS-130040?style=for-the-badge&logoColor=white"/>
-  <br/><sub><sup>CoT · Tool Use · Evaluation</sup></sub>
+  <img src="https://img.shields.io/badge/🤖%20LLMs%20%26%20AGENTS-08002a?style=for-the-badge"/>
+  <br/><sub>CoT · Tool Use · Evaluation</sub>
 </td>
 <td align="center" width="25%">
-  <img src="https://img.shields.io/badge/─────────────────-06001a?style=for-the-badge"/>
-  <br/>
-  <img src="https://img.shields.io/badge/📦%20EMBEDDINGS-130040?style=for-the-badge&logoColor=white"/>
-  <br/><sub><sup>Bi-encoders · Fine-tuning · STS</sup></sub>
+  <img src="https://img.shields.io/badge/📦%20EMBEDDINGS-08002a?style=for-the-badge"/>
+  <br/><sub>Bi-encoders · Fine-tuning · STS</sub>
 </td>
 <td align="center" width="25%">
-  <img src="https://img.shields.io/badge/─────────────────-06001a?style=for-the-badge"/>
-  <br/>
-  <img src="https://img.shields.io/badge/🧩%20RAG%20ARCHITECTURE-130040?style=for-the-badge&logoColor=white"/>
-  <br/><sub><sup>Chunk · Index · Re-rank · Eval</sup></sub>
+  <img src="https://img.shields.io/badge/🧩%20RAG%20ARCHITECTURE-08002a?style=for-the-badge"/>
+  <br/><sub>Chunk · Index · Re-rank · Eval</sub>
 </td>
 </tr>
 <tr><td colspan="4"><br/></td></tr>
 <tr>
 <td align="center" width="25%">
-  <img src="https://img.shields.io/badge/📊%20VECTOR%20DATABASES-1e0860?style=for-the-badge&logoColor=white"/>
-  <br/><sub><sup>FAISS · Chroma · Pinecone · Weaviate</sup></sub>
+  <img src="https://img.shields.io/badge/📊%20VECTOR%20DATABASES-14005c?style=for-the-badge"/>
+  <br/><sub>FAISS · Chroma · Pinecone</sub>
 </td>
 <td align="center" width="25%">
-  <img src="https://img.shields.io/badge/⚙️%20FINE--TUNING-1e0860?style=for-the-badge&logoColor=white"/>
-  <br/><sub><sup>LoRA · QLoRA · PEFT · Adapters</sup></sub>
+  <img src="https://img.shields.io/badge/⚙️%20FINE--TUNING-14005c?style=for-the-badge"/>
+  <br/><sub>LoRA · QLoRA · PEFT</sub>
 </td>
 <td align="center" width="25%">
-  <img src="https://img.shields.io/badge/📐%20ML%20THEORY-1e0860?style=for-the-badge&logoColor=white"/>
-  <br/><sub><sup>Transformers · Attention · Optim.</sup></sub>
+  <img src="https://img.shields.io/badge/📐%20ML%20THEORY-14005c?style=for-the-badge"/>
+  <br/><sub>Transformers · Attention</sub>
 </td>
 <td align="center" width="25%">
-  <img src="https://img.shields.io/badge/🧮%20SYSTEMS%20DESIGN-1e0860?style=for-the-badge&logoColor=white"/>
-  <br/><sub><sup>Eval Pipelines · Infra · Serving</sup></sub>
+  <img src="https://img.shields.io/badge/🧮%20SYSTEMS%20DESIGN-14005c?style=for-the-badge"/>
+  <br/><sub>Eval Pipelines · Infra</sub>
 </td>
 </tr>
 </table>
@@ -199,13 +232,15 @@ class SomeshBharathwaj:
 
 <br/>
 
-<!-- ════════════════  SEPARATOR — FIRE ANIMATION  ════════════════ -->
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%"/>
-
-<!-- ╔══════════════  PROJECTS — PREMIUM RESEARCH CARDS  ════════════╗ -->
+<!-- ─────────────────────  SOFT DIVIDER  ──────────────────────────── -->
+<div align="center"><img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-000008?style=flat-square&labelColor=000008"/></div>
 
 <br/>
+
+
+<!-- ┌──────────────────────────────────────────────────────────────┐  -->
+<!--   LEVEL 3 STATIC  ·  RESEARCH PROJECTS                         -->
+<!-- └──────────────────────────────────────────────────────────────┘  -->
 
 <div align="center">
 <h2>🚀 &nbsp; Research Projects</h2>
@@ -217,7 +252,7 @@ class SomeshBharathwaj:
 <td width="33%" valign="top" align="center">
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2000&pause=99999&color=A78BFA&center=true&vCenter=true&width=280&height=22&lines=01+·+RAG+PIPELINE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=1800&pause=99999&color=6D28D9&center=true&vCenter=true&width=260&height=20&lines=01+·+RAG+PIPELINE)](https://git.io/typing-svg)
 
 <br/>
 
@@ -228,7 +263,7 @@ class SomeshBharathwaj:
 ```
 TYPE   Retrieval-Augmented Generation
 STACK  Python · LangChain · VectorDB
-STAGE  Active ████████░░ 80%
+STAGE  Active  ████████░░  80%
 ENV    Production · Evolab
 ```
 
@@ -236,18 +271,18 @@ ENV    Production · Evolab
 
 <br/>
 
-![](https://img.shields.io/badge/🔥_Active-6d28d9?style=flat-square&labelColor=06001a)
+![](https://img.shields.io/badge/●_Active-4c1d95?style=flat-square&labelColor=000008)
 &nbsp;
-![Python](https://img.shields.io/badge/Python-06001a?style=flat-square&logo=python&logoColor=9d77e8)
-![LangChain](https://img.shields.io/badge/LangChain-06001a?style=flat-square&logoColor=9d77e8)
-![VectorDB](https://img.shields.io/badge/VectorDB-06001a?style=flat-square&logoColor=9d77e8)
+![Python](https://img.shields.io/badge/Python-000008?style=flat-square&logo=python&logoColor=6d28d9)
+![LangChain](https://img.shields.io/badge/LangChain-000008?style=flat-square&logoColor=6d28d9)
+![VectorDB](https://img.shields.io/badge/VectorDB-000008?style=flat-square&logoColor=6d28d9)
 
 </td>
 
 <td width="33%" valign="top" align="center">
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2000&pause=99999&color=9D77E8&center=true&vCenter=true&width=280&height=22&lines=02+·+INVOICE+EXTRACTOR)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=1800&pause=99999&color=7C3AED&center=true&vCenter=true&width=260&height=20&lines=02+·+INVOICE+EXTRACTOR)](https://git.io/typing-svg)
 
 <br/>
 
@@ -258,7 +293,7 @@ ENV    Production · Evolab
 ```
 TYPE   Structured Document Extraction
 STACK  Python · OCR · NLP · Transformers
-STAGE  Building █████░░░░░ 50%
+STAGE  Building  █████░░░░░  50%
 ENV    R&D · Self-directed
 ```
 
@@ -266,18 +301,18 @@ ENV    R&D · Self-directed
 
 <br/>
 
-![](https://img.shields.io/badge/⚡_Building-6d28d9?style=flat-square&labelColor=06001a)
+![](https://img.shields.io/badge/●_Building-4c1d95?style=flat-square&labelColor=000008)
 &nbsp;
-![Python](https://img.shields.io/badge/Python-06001a?style=flat-square&logo=python&logoColor=9d77e8)
-![OCR](https://img.shields.io/badge/OCR-06001a?style=flat-square&logoColor=9d77e8)
-![Transformers](https://img.shields.io/badge/HuggingFace-06001a?style=flat-square&logo=huggingface&logoColor=9d77e8)
+![Python](https://img.shields.io/badge/Python-000008?style=flat-square&logo=python&logoColor=6d28d9)
+![OCR](https://img.shields.io/badge/OCR-000008?style=flat-square&logoColor=6d28d9)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-000008?style=flat-square&logo=huggingface&logoColor=6d28d9)
 
 </td>
 
 <td width="33%" valign="top" align="center">
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2000&pause=99999&color=7C5CBF&center=true&vCenter=true&width=280&height=22&lines=03+·+RFID+SYSTEM)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=1800&pause=99999&color=5B21B6&center=true&vCenter=true&width=260&height=20&lines=03+·+RFID+SYSTEM)](https://git.io/typing-svg)
 
 <br/>
 
@@ -288,7 +323,7 @@ ENV    R&D · Self-directed
 ```
 TYPE   AI + Embedded Infrastructure
 STACK  Python · RFID · Embedded Systems
-STAGE  Planning ██░░░░░░░░ 20%
+STAGE  Planning  ██░░░░░░░░  20%
 ENV    Institutional · Scale
 ```
 
@@ -296,11 +331,11 @@ ENV    Institutional · Scale
 
 <br/>
 
-![](https://img.shields.io/badge/🗺️_Planning-6d28d9?style=flat-square&labelColor=06001a)
+![](https://img.shields.io/badge/●_Planning-4c1d95?style=flat-square&labelColor=000008)
 &nbsp;
-![Python](https://img.shields.io/badge/Python-06001a?style=flat-square&logo=python&logoColor=9d77e8)
-![Embedded](https://img.shields.io/badge/Embedded-06001a?style=flat-square&logoColor=9d77e8)
-![AI](https://img.shields.io/badge/AI-06001a?style=flat-square&logoColor=9d77e8)
+![Python](https://img.shields.io/badge/Python-000008?style=flat-square&logo=python&logoColor=6d28d9)
+![Embedded](https://img.shields.io/badge/Embedded-000008?style=flat-square&logoColor=6d28d9)
+![AI](https://img.shields.io/badge/AI-000008?style=flat-square&logoColor=6d28d9)
 
 </td>
 
@@ -309,85 +344,124 @@ ENV    Institutional · Scale
 
 <br/>
 
-<!-- ════════════════  SEPARATOR — AQUA RULED LINE  ════════════════ -->
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
-
-<!-- ╔══════════════  TECH STACK  ════════════════════════════════════╗ -->
+<!-- ─────────────────────  SOFT DIVIDER  ──────────────────────────── -->
+<div align="center"><img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-000008?style=flat-square&labelColor=000008"/></div>
 
 <br/>
 
+
+<!-- ┌──────────────────────────────────────────────────────────────┐  -->
+<!--   LEVEL 3 STATIC  ·  TECH STACK                                -->
+<!-- └──────────────────────────────────────────────────────────────┘  -->
+
 <div align="center">
 <h2>🛠️ &nbsp; Tech Stack</h2>
-</div>
 
-<div align="center">
+<table width="90%">
+<tr>
+<td align="center" valign="top" width="33%">
 
-**`· Languages ·`**
+`languages`
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<br/>
+</td>
+<td align="center" valign="top" width="34%">
 
-**`· AI · ML · Deep Learning ·`**
+`ai · ml · dl`
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-<br/>
+</td>
+<td align="center" valign="top" width="33%">
 
-**`· Data & Dev Tools ·`**
+`data · tooling`
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 </div>
 
 <br/>
 
-<!-- ════════════════  SEPARATOR — SOLAR ANIMATION  ════════════════ -->
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
-
-<!-- ╔══════════════  GITHUB STATS — TRIMMED DASHBOARD  ════════════╗ -->
+<!-- ─────────────────────  SOFT DIVIDER  ──────────────────────────── -->
+<div align="center"><img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-000008?style=flat-square&labelColor=000008"/></div>
 
 <br/>
+
+
+<!-- ┌──────────────────────────────────────────────────────────────┐  -->
+<!--   LEVEL 2 MOTION  ·  ML EXPERIMENT TRACKING DASHBOARD          -->
+<!--   stats: performance · streak · contribution graph             -->
+<!-- └──────────────────────────────────────────────────────────────┘  -->
 
 <div align="center">
 <h2>📊 &nbsp; GitHub Stats</h2>
 </div>
 
 <details>
-<summary><b>⚡ &nbsp; Open Stats Dashboard</b></summary>
+<summary><b>&nbsp; ◈ &nbsp; Expand Telemetry Dashboard</b></summary>
 
 <br/>
 
 <div align="center">
 
-<!-- ROW 1: STATS CARD — FULL WIDTH -->
+```
+  ╔══════════════════════════════════════════════════════════════════╗
+  ║  ML EXPERIMENT TRACKER  ·  github.com/someshbharathwaj-ops      ║
+  ╚══════════════════════════════════════════════════════════════════╝
+```
 
-<img width="80%" src="https://github-readme-stats.vercel.app/api?username=someshbharathwaj-ops&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=06001a&title_color=9d77e8&icon_color=6d28d9&text_color=c4b5fd&ring_color=6d28d9&border_radius=12"/>
+<br/>
+
+<!-- MODULE A — PERFORMANCE -->
+
+```
+  [ MODULE A ]  PERFORMANCE METRICS
+```
+
+<img width="72%" src="https://github-readme-stats.vercel.app/api?username=someshbharathwaj-ops&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=000008&title_color=7c3aed&icon_color=4c1d95&text_color=a78bfa&ring_color=4c1d95&border_radius=8"/>
 
 <br/><br/>
 
-<!-- ROW 2: STREAK — CENTERED -->
+<!-- MODULE B — STREAK -->
 
-<img width="80%" src="https://github-readme-streak-stats-salesp07.vercel.app?user=someshbharathwaj-ops&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=700&background=06001a&ring=6d28d9&fire=9d77e8&currStreakLabel=c4b5fd&sideLabels=c4b5fd&currStreakNum=e9d5ff&sideNums=e9d5ff&dates=7c5cbf&border_radius=12"/>
+```
+  [ MODULE B ]  COMMIT STREAK
+```
+
+<img width="72%" src="https://github-readme-streak-stats-salesp07.vercel.app?user=someshbharathwaj-ops&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=680&background=000008&ring=4c1d95&fire=7c3aed&currStreakLabel=a78bfa&sideLabels=a78bfa&currStreakNum=ddd6fe&sideNums=ddd6fe&dates=5b21b6&border_radius=8"/>
 
 <br/><br/>
 
-<!-- ROW 3: CONTRIBUTION GRAPH -->
+<!-- MODULE C — CONTRIBUTION GRAPH -->
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=someshbharathwaj-ops&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity&bg_color=06001a&color=9d77e8&line=6d28d9&point=c4b5fd&area_color=130040&radius=12"/>
+```
+  [ MODULE C ]  CONTRIBUTION ACTIVITY  ·  area fill enabled
+```
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=someshbharathwaj-ops&theme=tokyo-night&hide_border=true&area=true&custom_title=commit+activity+stream&bg_color=000008&color=7c3aed&line=4c1d95&point=a78bfa&area_color=08002a&radius=8"/>
+
+<br/>
+
+```
+  ─────────────────────────────────────────────────────────────────
+  dashboard  ·  private commits included  ·  all-time history
+  ─────────────────────────────────────────────────────────────────
+```
 
 </div>
 
@@ -395,24 +469,26 @@ ENV    Institutional · Scale
 
 <br/>
 
-<!-- ════════════════  SEPARATOR — COLORED  ════════════════ -->
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-
-<!-- ╔══════════════  SKILL RADAR — VISUAL MATRIX  ══════════════════╗ -->
+<!-- ─────────────────────  SOFT DIVIDER  ──────────────────────────── -->
+<div align="center"><img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-000008?style=flat-square&labelColor=000008"/></div>
 
 <br/>
+
+
+<!-- ┌──────────────────────────────────────────────────────────────┐  -->
+<!--   LEVEL 3 STATIC  ·  SKILL MATRIX                              -->
+<!-- └──────────────────────────────────────────────────────────────┘  -->
 
 <div align="center">
 <h2>⚡ &nbsp; Skill Matrix</h2>
 
-<table width="88%">
+<table width="90%">
 <tr>
 <td align="left" width="50%">
 
 ```
- CORE COMPETENCIES
- ──────────────────────────────────────
+  CORE COMPETENCIES
+  ────────────────────────────────────────
   RAG Engineering      ██████████  ●●●
   LLM Prompting        █████████░  ●●○
   Vector Search        █████████░  ●●○
@@ -421,24 +497,24 @@ ENV    Institutional · Scale
   ML Evaluation        ████████░░  ●●○
   Fine-Tuning (LoRA)   ██████░░░░  ●○○
   Algorithms & DS      ███████░░░  ●○○
- ──────────────────────────────────────
+  ────────────────────────────────────────
 ```
 
 </td>
 <td align="left" width="50%">
 
 ```
- ORIENTATION MATRIX
- ──────────────────────────────────────
-  Research mindset      ██████████ 10/10
-  Systems thinking      █████████░  9/10
-  Depth over breadth    ██████████ 10/10
-  Documentation         ████████░░  8/10
-  Open-source intent    ███████░░░  7/10
-  Algo foundations      ███████░░░  7/10
-  Infrastructure feel   ███████░░░  7/10
-  Collaboration mode    ████████░░  8/10
- ──────────────────────────────────────
+  ORIENTATION MATRIX
+  ────────────────────────────────────────
+  Research mindset      ██████████  10/10
+  Systems thinking      █████████░   9/10
+  Depth over breadth    ██████████  10/10
+  Documentation         ████████░░   8/10
+  Open-source intent    ███████░░░   7/10
+  Algo foundations      ███████░░░   7/10
+  Infrastructure feel   ███████░░░   7/10
+  Collaboration mode    ████████░░   8/10
+  ────────────────────────────────────────
 ```
 
 </td>
@@ -449,20 +525,22 @@ ENV    Institutional · Scale
 
 <br/>
 
-<!-- ════════════════  SEPARATOR — DARK GRADIENT LINE  ════════════ -->
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%"/>
-
-<!-- ╔══════════════  LEARNING ROADMAP  ═════════════════════════════╗ -->
+<!-- ─────────────────────  SOFT DIVIDER  ──────────────────────────── -->
+<div align="center"><img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-000008?style=flat-square&labelColor=000008"/></div>
 
 <br/>
+
+
+<!-- ┌──────────────────────────────────────────────────────────────┐  -->
+<!--   LEVEL 3 STATIC  ·  LEARNING ROADMAP                          -->
+<!-- └──────────────────────────────────────────────────────────────┘  -->
 
 <div align="center">
 <h2>📚 &nbsp; Learning Roadmap</h2>
 </div>
 
 <details>
-<summary><b>🎯 &nbsp; Active Courses & Deep-dive Areas</b></summary>
+<summary><b>&nbsp; ◈ &nbsp; Active Courses & Deep-dive Areas</b></summary>
 
 <br/>
 
@@ -479,31 +557,31 @@ ENV    Institutional · Scale
 <td align="center"><code>01</code></td>
 <td>Algorithms — Graphs · DP · Optimization</td>
 <td>Univ. of Colorado, Coursera</td>
-<td align="center"><img src="https://img.shields.io/badge/In_Progress-6d28d9?style=flat-square&labelColor=06001a"/></td>
+<td align="center"><img src="https://img.shields.io/badge/in_progress-4c1d95?style=flat-square&labelColor=000008"/></td>
 </tr>
 <tr>
 <td align="center"><code>02</code></td>
 <td>Data Analysis with Python</td>
 <td>Self-directed</td>
-<td align="center"><img src="https://img.shields.io/badge/In_Progress-6d28d9?style=flat-square&labelColor=06001a"/></td>
+<td align="center"><img src="https://img.shields.io/badge/in_progress-4c1d95?style=flat-square&labelColor=000008"/></td>
 </tr>
 <tr>
 <td align="center"><code>03</code></td>
 <td>Introduction to RAG</td>
 <td>Self-directed</td>
-<td align="center"><img src="https://img.shields.io/badge/✅_Completed-15803d?style=flat-square&labelColor=052e16"/></td>
+<td align="center"><img src="https://img.shields.io/badge/✓_completed-14532d?style=flat-square&labelColor=052e16"/></td>
 </tr>
 <tr>
 <td align="center"><code>04</code></td>
 <td>ML Fundamentals</td>
 <td>Self-directed</td>
-<td align="center"><img src="https://img.shields.io/badge/Ongoing-5b21b6?style=flat-square&labelColor=06001a"/></td>
+<td align="center"><img src="https://img.shields.io/badge/ongoing-3b0764?style=flat-square&labelColor=000008"/></td>
 </tr>
 <tr>
 <td align="center"><code>05</code></td>
 <td>Embedding Models & Dense Retrieval</td>
 <td>Self-directed</td>
-<td align="center"><img src="https://img.shields.io/badge/Ongoing-5b21b6?style=flat-square&labelColor=06001a"/></td>
+<td align="center"><img src="https://img.shields.io/badge/ongoing-3b0764?style=flat-square&labelColor=000008"/></td>
 </tr>
 </table>
 
@@ -512,8 +590,8 @@ ENV    Institutional · Scale
 ```
   DEEP-DIVE RESEARCH AREAS
   ─────────────────────────────────────────────────────────────────────
-   LLM Internals · RAG Evaluation · Dense vs Sparse Retrieval
-   Embedding Fine-tuning · Graph Algorithms · ML System Architecture
+   LLM Internals  ·  RAG Evaluation  ·  Dense vs Sparse Retrieval
+   Embedding Fine-tuning  ·  Graph Algorithms  ·  ML System Design
   ─────────────────────────────────────────────────────────────────────
 ```
 
@@ -522,46 +600,50 @@ ENV    Institutional · Scale
 
 <br/>
 
-<!-- ════════════════  SEPARATOR — VINTAGE  ════════════════ -->
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/vintage.png" width="100%"/>
-
-<!-- ╔══════════════  GOALS — MISSION TERMINAL  ═════════════════════╗ -->
+<!-- ─────────────────────  SOFT DIVIDER  ──────────────────────────── -->
+<div align="center"><img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-000008?style=flat-square&labelColor=000008"/></div>
 
 <br/>
+
+
+<!-- ┌──────────────────────────────────────────────────────────────┐  -->
+<!--   LEVEL 3 STATIC  ·  MISSION LOG                               -->
+<!-- └──────────────────────────────────────────────────────────────┘  -->
 
 <div align="center">
 <h2>🎯 &nbsp; Mission Log</h2>
 
 ```
-┌─────────────────────────────────────────────────────────────────────┐
-│                         TRAJECTORY REPORT                          │
-├──────────────┬──────────────────────────────────────────────────────┤
-│  ⚡ Short     │  Ship RAG @ Evolab with solid eval coverage          │
-│              │  Complete invoice extractor pipeline                 │
-├──────────────┼──────────────────────────────────────────────────────┤
-│  🔬 Mid      │  Strong ML + algorithms foundation                   │
-│              │  Meaningful open-source contributions in NLP/RAG     │
-├──────────────┼──────────────────────────────────────────────────────┤
-│  🌍 Long     │  Fully funded MS / MTech in Germany                  │
-│              │  or equivalent top-tier AI research institution      │
-├──────────────┼──────────────────────────────────────────────────────┤
-│  💡 Axiom    │  Depth > Breadth.  Systems > Hype.                   │
-│              │  Build things that last.                             │
-└──────────────┴──────────────────────────────────────────────────────┘
+  ╔══════════════════════════════════════════════════════════════════╗
+  ║                      TRAJECTORY REPORT                         ║
+  ╠══════════════╦═══════════════════════════════════════════════════╣
+  ║  ⚡ Short    ║  Ship RAG @ Evolab with solid eval coverage       ║
+  ║              ║  Complete invoice extractor pipeline              ║
+  ╠══════════════╬═══════════════════════════════════════════════════╣
+  ║  🔬 Mid      ║  Strong ML + algorithms foundation                ║
+  ║              ║  Meaningful open-source contributions in NLP/RAG  ║
+  ╠══════════════╬═══════════════════════════════════════════════════╣
+  ║  🌍 Long     ║  Fully funded MS / MTech in Germany               ║
+  ║              ║  or equivalent top-tier AI research institution   ║
+  ╠══════════════╬═══════════════════════════════════════════════════╣
+  ║  💡 Axiom    ║  Depth > Breadth.  Systems > Hype.                ║
+  ║              ║  Build things that last.                          ║
+  ╚══════════════╩═══════════════════════════════════════════════════╝
 ```
 
 </div>
 
 <br/>
 
-<!-- ════════════════  SEPARATOR — RAINBOW  ════════════════ -->
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-<!-- ╔══════════════  CONNECT  ══════════════════════════════════════╗ -->
+<!-- ─────────────────────  SOFT DIVIDER  ──────────────────────────── -->
+<div align="center"><img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-000008?style=flat-square&labelColor=000008"/></div>
 
 <br/>
+
+
+<!-- ┌──────────────────────────────────────────────────────────────┐  -->
+<!--   CONNECT  ·  LEVEL 2 MICRO-MOTION  ·  typing footer           -->
+<!-- └──────────────────────────────────────────────────────────────┘  -->
 
 <div align="center">
 
@@ -571,7 +653,7 @@ ENV    Institutional · Scale
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/somesh-bharathwaj-35b413212)
 &nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/someshbharathwaj-ops)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/someshbharathwaj-ops)
 &nbsp;&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:somesh.k.bharathwaj@gmail.com)
 &nbsp;&nbsp;
@@ -580,12 +662,15 @@ ENV    Institutional · Scale
 <br/><br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=4500&pause=1000&color=7C5CBF&center=true&vCenter=true&width=600&height=24&lines=Open+to%3A+research+collabs+·+ML+internships+·+AI+systems+conversations"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=4800&pause=1200&color=5B21B6&center=true&vCenter=true&width=640&height=24&lines=_+open+to%3A+research+collabs+·+ML+internships+·+AI+systems+conversations"/>
 </a>
 
 <br/><br/>
 
-<!-- FOOTER BANNER — vortex type -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000005,20:06001a,50:130040,80:06001a,100:000005&height=150&section=footer&animation=fadeIn&reversal=true"/>
+<!-- ┌──────────────────────────────────────────────────────────────┐  -->
+<!--   LEVEL 1 MOTION  ·  FOOTER  ·  cylinder  ·  mirrors header    -->
+<!-- └──────────────────────────────────────────────────────────────┘  -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000008,40:08002a,70:14005c,100:000008&height=120&section=footer&animation=blinking&reversal=true"/>
 
 </div>
