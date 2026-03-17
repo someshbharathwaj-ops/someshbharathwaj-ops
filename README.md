@@ -1,113 +1,82 @@
-<!-- ██████████████████████████████████████████████████████████████████ -->
-<!--              SOMESH BHARATHWAJ  ·  README.md  ·  rev 2025.03      -->
-<!-- ██████████████████████████████████████████████████████████████████ -->
+<!-- ============================================================ -->
+<!--        SOMESH BHARATHWAJ  —  GitHub Profile README          -->
+<!-- ============================================================ -->
 
 
-<!-- ┌──────────────────────────────────────────────────────────────┐  -->
-<!--   LEVEL 1 MOTION  ·  HERO HEADER  ·  cylinder type             -->
-<!-- └──────────────────────────────────────────────────────────────┘  -->
+<!-- ░░░ HERO — soft wave, charcoal-to-indigo gradient ░░░ -->
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000008,40:08002a,70:14005c,100:000008&height=280&section=header&text=SOMESH%20BHARATHWAJ&fontSize=52&fontColor=ddd6fe&animation=blinking&fontAlignY=45&desc=AI%20Engineer%20%E2%80%A2%20ML%20Researcher%20%E2%80%A2%20RAG%20Architect&descSize=15&descColor=8b5cf6&descAlignY=63&stroke=4c1d95&strokeWidth=1"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0f,50:1a1040,100:0a0a0f&height=260&section=header&text=Somesh%20Bharathwaj&fontSize=58&fontColor=f5f0ff&animation=fadeIn&fontAlignY=42&desc=AI%20Engineer%20%C2%B7%20ML%20Researcher%20%C2%B7%20RAG%20Architect&descSize=16&descColor=8875c7&descAlignY=62"/>
 </div>
 
-
-<!-- ┌──────────────────────────────────────────────────────────────┐  -->
-<!--   LEVEL 2 MOTION  ·  TERMINAL TYPING  ·  Fira Code             -->
-<!-- └──────────────────────────────────────────────────────────────┘  -->
+<!-- ░░░ TYPING — underscore-prefix, monospace, slow & clean ░░░ -->
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=4200&pause=900&color=7C3AED&center=true&vCenter=true&random=false&width=720&height=28&lines=_+Building+production+RAG+systems+from+first+principles;_+LLMs+·+Embeddings+·+Vector+Search+·+Evaluation+Pipelines;_+B.Tech+CSE+@+Amrita+·+BS+DS%26AI+@+IIT+Madras;_+Depth+over+breadth.+Systems+over+hype."/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&weight=400&duration=3800&pause=1200&color=7B61C4&center=true&vCenter=true&width=680&height=26&lines=%E2%86%92+Building+production+RAG+systems+from+first+principles;%E2%86%92+LLMs+%C2%B7+Embeddings+%C2%B7+Vector+Search+%C2%B7+Evaluation;%E2%86%92+B.Tech+CSE+%40+Amrita+%C2%B7+BS+DS%26AI+%40+IIT+Madras;%E2%86%92+Depth+over+breadth.+Systems+over+hype."/>
 </div>
 
 <br/>
 
+<!-- ░░░ BADGES — flat, lowercase, research-lab feel ░░░ -->
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=someshbharathwaj-ops&label=profile.views&color=4c1d95&style=flat-square&labelColor=000008"/>
+  <img src="https://komarev.com/ghpvc/?username=someshbharathwaj-ops&label=views&color=3d2a6e&style=flat-square&labelColor=12101e"/>
   &nbsp;
-  <img src="https://img.shields.io/github/followers/someshbharathwaj-ops?label=followers&style=flat-square&color=4c1d95&labelColor=000008&logo=github&logoColor=7c3aed"/>
+  <img src="https://img.shields.io/github/followers/someshbharathwaj-ops?label=followers&style=flat-square&color=3d2a6e&labelColor=12101e&logo=github&logoColor=9575cd"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/focus-AI%20·%20ML%20·%20RAG-4c1d95?style=flat-square&labelColor=000008"/>
+  <img src="https://img.shields.io/badge/focus-AI%20·%20ML%20·%20RAG-3d2a6e?style=flat-square&labelColor=12101e"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/status-open%20to%20collabs%20%26%20internships-166534?style=flat-square&labelColor=000008"/>
+  <img src="https://img.shields.io/badge/status-open%20to%20collabs-1a5c38?style=flat-square&labelColor=12101e"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/target-MS%2FMTech%20→%20Germany-92400e?style=flat-square&labelColor=000008"/>
+  <img src="https://img.shields.io/badge/goal-MS%2FMTech%20→%20Germany-7a3a00?style=flat-square&labelColor=12101e"/>
 </div>
 
 <br/>
+<br/>
 
-
-<!-- ┌──────────────────────────────────────────────────────────────┐  -->
-<!--   LEVEL 1 MOTION  ·  NEURAL SIGNAL TELEMETRY                   -->
-<!--   snake contribution grid  ·  framed as system dashboard        -->
-<!-- └──────────────────────────────────────────────────────────────┘  -->
+<!-- ================================================================ -->
+<!--   NEURAL SIGNAL — contribution snake, reframed as system telemetry -->
+<!-- ================================================================ -->
 
 <div align="center">
 
-<table width="96%" cellspacing="0" cellpadding="0">
-<tr>
-<td>
-
-```
- CONTRIBUTION SIGNAL STREAM  ·  someshbharathwaj-ops  ·  live feed
- ─────────────────────────────────────────────────────────────────────
-```
+<sub>C O N T R I B U T I O N &nbsp; S I G N A L &nbsp; S T R E A M</sub>
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-  <img alt="neural-signal-stream" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img alt="contribution-signal-stream" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="96%"/>
 </picture>
 
-```
- ─────────────────────────────────────────────────────────────────────
- signal: commit activity  ·  node traversal: active  ·  stream: live
-```
-
-</td>
-</tr>
-</table>
+<sub>commit node traversal &nbsp;·&nbsp; live feed &nbsp;·&nbsp; someshbharathwaj-ops</sub>
 
 </div>
 
 <br/>
+<br/>
 
-<!-- ─────────────────────  SOFT DIVIDER  ──────────────────────────── -->
-<div align="center"><img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-000008?style=flat-square&labelColor=000008"/></div>
+<!-- thin rule -->
+<div align="center"><img src="https://img.shields.io/badge/--%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-12101e?style=flat-square&labelColor=12101e&color=2a2040"/></div>
 
 <br/>
 
+<!-- ================================================================ -->
+<!--                        IDENTITY                                  -->
+<!-- ================================================================ -->
 
-<!-- ┌──────────────────────────────────────────────────────────────┐  -->
-<!--   LEVEL 3 STATIC  ·  IDENTITY MODULE                           -->
-<!-- └──────────────────────────────────────────────────────────────┘  -->
-
-<div align="center">
-
-```
-  ╔══════════════════════════════════════════════════════════════════╗
-  ║  IDENTITY MODULE  ·  rev 2025.03  ·  somesh.bharathwaj          ║
-  ╚══════════════════════════════════════════════════════════════════╝
-```
-
-</div>
+<h2 align="center">◈ &nbsp; Identity</h2>
 
 <table width="100%">
 <tr>
-<td width="52%" valign="top">
+<td width="53%" valign="top">
 
 ```python
-# ────────────────────────────────────────────────
-#  core.identity  ·  AI/ML Engineer
-# ────────────────────────────────────────────────
+# identity.py  ·  AI/ML Engineer
 
 class SomeshBharathwaj:
     """
-    Research-driven AI Engineer building
-    intelligent retrieval systems.
-    Systems thinker. Depth maximalist.
+    Research-driven. Systems-oriented.
+    Depth maximalist. Builder.
     """
 
     education = {
@@ -115,57 +84,57 @@ class SomeshBharathwaj:
         "BS"     : "DS & AI  ·  IIT Madras",
     }
 
-    research_focus = [
-        "Large Language Models (LLMs)",
+    focus = [
+        "Large Language Models",
         "Retrieval-Augmented Generation",
         "Embedding Models & Vector Search",
         "ML Systems Design & Evaluation",
     ]
 
-    building_now = {
+    now = {
         "RAG Pipeline"  : "Evolab      ████████░░  80%",
         "Doc Extractor" : "Invoice AI  █████░░░░░  50%",
         "RFID System"   : "Embedded    ██░░░░░░░░  20%",
     }
 
-    ambition = "MS/MTech  ·  Germany AI Research Hub"
-    axiom    = "Depth > Breadth.  Systems > Hype."
+    goal  = "MS/MTech  →  Germany AI Hub"
+    axiom = "Depth > Breadth.  Systems > Hype."
 ```
 
 </td>
-<td width="2%"></td>
+<td width="1%"></td>
 <td width="46%" valign="top">
 
 <br/>
 
-**`▸ ACTIVE BUILD LOG`**
+```
+ BUILD LOG
+ ┌─────────────────────────────────────┐
+ │  ● RAG PIPELINE — EVOLAB        🔥 │
+ │    Chunk · Index · Eval             │
+ │    ████████░░░  80%  active         │
+ ├─────────────────────────────────────┤
+ │  ● INVOICE EXTRACTOR            ⚡ │
+ │    OCR · NLP · Field Norm.          │
+ │    █████░░░░░░  50%  building       │
+ ├─────────────────────────────────────┤
+ │  ○ RFID SYSTEM                  🗺️ │
+ │    AI · Embedded · Scale            │
+ │    ██░░░░░░░░░  20%  planning       │
+ ├─────────────────────────────────────┤
+ │  ○ ALGORITHMS — COURSERA (CU)   📚 │
+ │    Graphs · DP · Optimisation       │
+ │    ██████░░░░░  60%  ongoing        │
+ └─────────────────────────────────────┘
+```
 
 ```
-┌──────────────────────────────────────────┐
-│  ◉  RAG PIPELINE — EVOLAB            🔥 │
-│     Chunking · Indexing · Evaluation     │
-│     ████████░░░  80%  IN PROGRESS        │
-├──────────────────────────────────────────┤
-│  ◉  INVOICE EXTRACTOR                ⚡ │
-│     Doc AI · OCR · NLP · Norm.           │
-│     █████░░░░░░  50%  ACTIVE             │
-├──────────────────────────────────────────┤
-│  ◎  RFID ACCOUNTABILITY SYSTEM       🗺️ │
-│     AI · Embedded · Scale                │
-│     ██░░░░░░░░░  20%  PLANNING           │
-├──────────────────────────────────────────┤
-│  ◎  ALGORITHMS — COURSERA (CU)       📚 │
-│     Graphs · DP · Optimization           │
-│     ██████░░░░░  60%  ONGOING            │
-└──────────────────────────────────────────┘
-```
-
-**`▸ SYSTEM VITALS`**
-
-```
-  Research mode    ████████████  ACTIVE
-  Open to collabs  ████████████  YES
-  Germany track    ████░░░░░░░░  LOADING
+ VITALS
+ ─────────────────────────────────────
+  Research mode    ████████████  on
+  Open to collabs  ████████████  yes
+  Germany track    ████░░░░░░░░  loading
+ ─────────────────────────────────────
 ```
 
 </td>
@@ -174,168 +143,162 @@ class SomeshBharathwaj:
 
 <br/>
 
-<!-- ─────────────────────  SOFT DIVIDER  ──────────────────────────── -->
-<div align="center"><img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-000008?style=flat-square&labelColor=000008"/></div>
+<!-- thin rule -->
+<div align="center"><img src="https://img.shields.io/badge/--%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-12101e?style=flat-square&labelColor=12101e&color=2a2040"/></div>
 
 <br/>
 
+<!-- ================================================================ -->
+<!--                    RESEARCH DOMAINS                              -->
+<!-- ================================================================ -->
 
-<!-- ┌──────────────────────────────────────────────────────────────┐  -->
-<!--   LEVEL 3 STATIC  ·  RESEARCH DOMAINS                          -->
-<!-- └──────────────────────────────────────────────────────────────┘  -->
+<h2 align="center">◈ &nbsp; Research Domains</h2>
 
 <div align="center">
-
-<h2>🧠 &nbsp; Research Domains</h2>
-
-<table width="92%">
+<table width="88%">
 <tr>
 <td align="center" width="25%">
-  <img src="https://img.shields.io/badge/🔍%20RETRIEVAL%20SYSTEMS-08002a?style=for-the-badge"/>
-  <br/><sub>Dense · Sparse · Hybrid · ANN</sub>
+  <img src="https://img.shields.io/badge/Retrieval%20Systems-12101e?style=flat-square&logo=searchengineland&logoColor=9575cd"/><br/>
+  <sub>Dense · Sparse · Hybrid · ANN</sub>
 </td>
 <td align="center" width="25%">
-  <img src="https://img.shields.io/badge/🤖%20LLMs%20%26%20AGENTS-08002a?style=for-the-badge"/>
-  <br/><sub>CoT · Tool Use · Evaluation</sub>
+  <img src="https://img.shields.io/badge/LLMs%20%26%20Agents-12101e?style=flat-square&logo=openai&logoColor=9575cd"/><br/>
+  <sub>CoT · Tool Use · Evaluation</sub>
 </td>
 <td align="center" width="25%">
-  <img src="https://img.shields.io/badge/📦%20EMBEDDINGS-08002a?style=for-the-badge"/>
-  <br/><sub>Bi-encoders · Fine-tuning · STS</sub>
+  <img src="https://img.shields.io/badge/Embeddings-12101e?style=flat-square&logo=tensorflow&logoColor=9575cd"/><br/>
+  <sub>Bi-encoders · Fine-tuning · STS</sub>
 </td>
 <td align="center" width="25%">
-  <img src="https://img.shields.io/badge/🧩%20RAG%20ARCHITECTURE-08002a?style=for-the-badge"/>
-  <br/><sub>Chunk · Index · Re-rank · Eval</sub>
+  <img src="https://img.shields.io/badge/RAG%20Architecture-12101e?style=flat-square&logo=elasticsearch&logoColor=9575cd"/><br/>
+  <sub>Chunk · Index · Re-rank · Eval</sub>
 </td>
 </tr>
-<tr><td colspan="4"><br/></td></tr>
+<tr><td colspan="4" height="8"></td></tr>
 <tr>
 <td align="center" width="25%">
-  <img src="https://img.shields.io/badge/📊%20VECTOR%20DATABASES-14005c?style=for-the-badge"/>
-  <br/><sub>FAISS · Chroma · Pinecone</sub>
+  <img src="https://img.shields.io/badge/Vector%20Databases-1a1030?style=flat-square&logo=pinecone&logoColor=9575cd"/><br/>
+  <sub>FAISS · Chroma · Pinecone</sub>
 </td>
 <td align="center" width="25%">
-  <img src="https://img.shields.io/badge/⚙️%20FINE--TUNING-14005c?style=for-the-badge"/>
-  <br/><sub>LoRA · QLoRA · PEFT</sub>
+  <img src="https://img.shields.io/badge/Fine--Tuning-1a1030?style=flat-square&logo=pytorch&logoColor=9575cd"/><br/>
+  <sub>LoRA · QLoRA · PEFT</sub>
 </td>
 <td align="center" width="25%">
-  <img src="https://img.shields.io/badge/📐%20ML%20THEORY-14005c?style=for-the-badge"/>
-  <br/><sub>Transformers · Attention</sub>
+  <img src="https://img.shields.io/badge/ML%20Theory-1a1030?style=flat-square&logo=arxiv&logoColor=9575cd"/><br/>
+  <sub>Transformers · Attention · Optim.</sub>
 </td>
 <td align="center" width="25%">
-  <img src="https://img.shields.io/badge/🧮%20SYSTEMS%20DESIGN-14005c?style=for-the-badge"/>
-  <br/><sub>Eval Pipelines · Infra</sub>
+  <img src="https://img.shields.io/badge/Systems%20Design-1a1030?style=flat-square&logo=apacheairflow&logoColor=9575cd"/><br/>
+  <sub>Eval Pipelines · Infra · Serving</sub>
 </td>
 </tr>
 </table>
-
 </div>
 
 <br/>
 
-<!-- ─────────────────────  SOFT DIVIDER  ──────────────────────────── -->
-<div align="center"><img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-000008?style=flat-square&labelColor=000008"/></div>
+<!-- thin rule -->
+<div align="center"><img src="https://img.shields.io/badge/--%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-12101e?style=flat-square&labelColor=12101e&color=2a2040"/></div>
 
 <br/>
 
+<!-- ================================================================ -->
+<!--                       PROJECTS                                   -->
+<!-- ================================================================ -->
 
-<!-- ┌──────────────────────────────────────────────────────────────┐  -->
-<!--   LEVEL 3 STATIC  ·  RESEARCH PROJECTS                         -->
-<!-- └──────────────────────────────────────────────────────────────┘  -->
-
-<div align="center">
-<h2>🚀 &nbsp; Research Projects</h2>
-</div>
+<h2 align="center">◈ &nbsp; Projects</h2>
 
 <table width="100%">
 <tr>
 
-<td width="33%" valign="top" align="center">
-<br/>
+<td width="33%" valign="top">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=1800&pause=99999&color=6D28D9&center=true&vCenter=true&width=260&height=20&lines=01+·+RAG+PIPELINE)](https://git.io/typing-svg)
+<div align="center">
 
-<br/>
+`01 · RAG Pipeline`
 
-**Evolab · Production RAG System**
+**Evolab · Production RAG**
 
-<br/>
+</div>
 
 ```
-TYPE   Retrieval-Augmented Generation
-STACK  Python · LangChain · VectorDB
-STAGE  Active  ████████░░  80%
-ENV    Production · Evolab
+type   retrieval-augmented generation
+stack  Python · LangChain · VectorDB
+stage  active          ████████░░  80%
 ```
 
-<sub>Full RAG pipeline with adaptive chunking, custom vector indexing, and end-to-end evaluation. Focused on retrieval precision and generation quality at production grade.</sub>
+<sub>Production RAG pipeline with adaptive chunking strategy, vector indexing, and end-to-end eval. Focused on retrieval precision and generation quality benchmarking at scale.</sub>
 
 <br/>
 
-![](https://img.shields.io/badge/●_Active-4c1d95?style=flat-square&labelColor=000008)
+<div align="center">
+<img src="https://img.shields.io/badge/●%20active-3d2a6e?style=flat-square&labelColor=12101e"/>
 &nbsp;
-![Python](https://img.shields.io/badge/Python-000008?style=flat-square&logo=python&logoColor=6d28d9)
-![LangChain](https://img.shields.io/badge/LangChain-000008?style=flat-square&logoColor=6d28d9)
-![VectorDB](https://img.shields.io/badge/VectorDB-000008?style=flat-square&logoColor=6d28d9)
+<img src="https://img.shields.io/badge/Python-12101e?style=flat-square&logo=python&logoColor=9575cd"/>
+<img src="https://img.shields.io/badge/LangChain-12101e?style=flat-square&logoColor=9575cd"/>
+<img src="https://img.shields.io/badge/VectorDB-12101e?style=flat-square&logoColor=9575cd"/>
+</div>
 
 </td>
 
-<td width="33%" valign="top" align="center">
-<br/>
+<td width="33%" valign="top">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=1800&pause=99999&color=7C3AED&center=true&vCenter=true&width=260&height=20&lines=02+·+INVOICE+EXTRACTOR)](https://git.io/typing-svg)
+<div align="center">
 
-<br/>
+`02 · Invoice Extractor`
 
 **Document AI Pipeline**
 
-<br/>
+</div>
 
 ```
-TYPE   Structured Document Extraction
-STACK  Python · OCR · NLP · Transformers
-STAGE  Building  █████░░░░░  50%
-ENV    R&D · Self-directed
+type   structured document extraction
+stack  Python · OCR · NLP · Transformers
+stage  building        █████░░░░░  50%
 ```
 
-<sub>Intelligent doc processing for invoice field extraction across high layout variance. Multi-format normalization with transformer-backed classification and field correction.</sub>
+<sub>Intelligent doc processing for invoice field extraction across high layout variance. Multi-format normalisation with transformer-backed classification and field correction logic.</sub>
 
 <br/>
 
-![](https://img.shields.io/badge/●_Building-4c1d95?style=flat-square&labelColor=000008)
+<div align="center">
+<img src="https://img.shields.io/badge/●%20building-3d2a6e?style=flat-square&labelColor=12101e"/>
 &nbsp;
-![Python](https://img.shields.io/badge/Python-000008?style=flat-square&logo=python&logoColor=6d28d9)
-![OCR](https://img.shields.io/badge/OCR-000008?style=flat-square&logoColor=6d28d9)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-000008?style=flat-square&logo=huggingface&logoColor=6d28d9)
+<img src="https://img.shields.io/badge/Python-12101e?style=flat-square&logo=python&logoColor=9575cd"/>
+<img src="https://img.shields.io/badge/OCR-12101e?style=flat-square&logoColor=9575cd"/>
+<img src="https://img.shields.io/badge/HuggingFace-12101e?style=flat-square&logo=huggingface&logoColor=9575cd"/>
+</div>
 
 </td>
 
-<td width="33%" valign="top" align="center">
-<br/>
+<td width="33%" valign="top">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=1800&pause=99999&color=5B21B6&center=true&vCenter=true&width=260&height=20&lines=03+·+RFID+SYSTEM)](https://git.io/typing-svg)
+<div align="center">
 
-<br/>
+`03 · RFID System`
 
 **Embedded AI · Accountability**
 
-<br/>
+</div>
 
 ```
-TYPE   AI + Embedded Infrastructure
-STACK  Python · RFID · Embedded Systems
-STAGE  Planning  ██░░░░░░░░  20%
-ENV    Institutional · Scale
+type   AI + embedded infrastructure
+stack  Python · RFID · Embedded Systems
+stage  planning        ██░░░░░░░░  20%
 ```
 
-<sub>AI + embedded systems architecture for institutional tracking. Designed from the ground up for real-world reliability and accountability at scale across a live institution.</sub>
+<sub>AI + embedded systems architecture for institutional-scale tracking. Built from scratch for real-world reliability and accountability across a live institutional environment.</sub>
 
 <br/>
 
-![](https://img.shields.io/badge/●_Planning-4c1d95?style=flat-square&labelColor=000008)
+<div align="center">
+<img src="https://img.shields.io/badge/○%20planning-3d2a6e?style=flat-square&labelColor=12101e"/>
 &nbsp;
-![Python](https://img.shields.io/badge/Python-000008?style=flat-square&logo=python&logoColor=6d28d9)
-![Embedded](https://img.shields.io/badge/Embedded-000008?style=flat-square&logoColor=6d28d9)
-![AI](https://img.shields.io/badge/AI-000008?style=flat-square&logoColor=6d28d9)
+<img src="https://img.shields.io/badge/Python-12101e?style=flat-square&logo=python&logoColor=9575cd"/>
+<img src="https://img.shields.io/badge/Embedded-12101e?style=flat-square&logoColor=9575cd"/>
+<img src="https://img.shields.io/badge/RFID-12101e?style=flat-square&logoColor=9575cd"/>
+</div>
 
 </td>
 
@@ -344,124 +307,66 @@ ENV    Institutional · Scale
 
 <br/>
 
-<!-- ─────────────────────  SOFT DIVIDER  ──────────────────────────── -->
-<div align="center"><img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-000008?style=flat-square&labelColor=000008"/></div>
+<!-- thin rule -->
+<div align="center"><img src="https://img.shields.io/badge/--%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-12101e?style=flat-square&labelColor=12101e&color=2a2040"/></div>
 
 <br/>
 
+<!-- ================================================================ -->
+<!--                       TECH STACK                                 -->
+<!-- ================================================================ -->
 
-<!-- ┌──────────────────────────────────────────────────────────────┐  -->
-<!--   LEVEL 3 STATIC  ·  TECH STACK                                -->
-<!-- └──────────────────────────────────────────────────────────────┘  -->
+<h2 align="center">◈ &nbsp; Tech Stack</h2>
 
 <div align="center">
-<h2>🛠️ &nbsp; Tech Stack</h2>
 
-<table width="90%">
-<tr>
-<td align="center" valign="top" width="33%">
+<img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,git,linux,vscode,jupyter&theme=dark&perline=8"/>
 
-`languages`
+<br/><br/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-</td>
-<td align="center" valign="top" width="34%">
-
-`ai · ml · dl`
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-</td>
-<td align="center" valign="top" width="33%">
-
-`data · tooling`
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-</td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/HuggingFace-ffcc00?style=for-the-badge&logo=huggingface&logoColor=black"/>
+&nbsp;
+<img src="https://img.shields.io/badge/LangChain-1c3c3c?style=for-the-badge&logo=chainlink&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/scikit--learn-f7931e?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
 </div>
 
 <br/>
 
-<!-- ─────────────────────  SOFT DIVIDER  ──────────────────────────── -->
-<div align="center"><img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-000008?style=flat-square&labelColor=000008"/></div>
+<!-- thin rule -->
+<div align="center"><img src="https://img.shields.io/badge/--%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-12101e?style=flat-square&labelColor=12101e&color=2a2040"/></div>
 
 <br/>
 
+<!-- ================================================================ -->
+<!--                     GITHUB STATS                                 -->
+<!-- ================================================================ -->
 
-<!-- ┌──────────────────────────────────────────────────────────────┐  -->
-<!--   LEVEL 2 MOTION  ·  ML EXPERIMENT TRACKING DASHBOARD          -->
-<!--   stats: performance · streak · contribution graph             -->
-<!-- └──────────────────────────────────────────────────────────────┘  -->
-
-<div align="center">
-<h2>📊 &nbsp; GitHub Stats</h2>
-</div>
+<h2 align="center">◈ &nbsp; GitHub Stats</h2>
 
 <details>
-<summary><b>&nbsp; ◈ &nbsp; Expand Telemetry Dashboard</b></summary>
+<summary align="center"><b>↓ &nbsp; open dashboard</b></summary>
 
 <br/>
 
 <div align="center">
 
-```
-  ╔══════════════════════════════════════════════════════════════════╗
-  ║  ML EXPERIMENT TRACKER  ·  github.com/someshbharathwaj-ops      ║
-  ╚══════════════════════════════════════════════════════════════════╝
-```
-
-<br/>
-
-<!-- MODULE A — PERFORMANCE -->
-
-```
-  [ MODULE A ]  PERFORMANCE METRICS
-```
-
-<img width="72%" src="https://github-readme-stats.vercel.app/api?username=someshbharathwaj-ops&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=000008&title_color=7c3aed&icon_color=4c1d95&text_color=a78bfa&ring_color=4c1d95&border_radius=8"/>
+<img width="70%" src="https://github-readme-stats.vercel.app/api?username=someshbharathwaj-ops&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0a0a0f&title_color=9575cd&icon_color=7b61c4&text_color=b39ddb&ring_color=4a2d8a&hide_title=false&border_radius=10"/>
 
 <br/><br/>
 
-<!-- MODULE B — STREAK -->
-
-```
-  [ MODULE B ]  COMMIT STREAK
-```
-
-<img width="72%" src="https://github-readme-streak-stats-salesp07.vercel.app?user=someshbharathwaj-ops&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=680&background=000008&ring=4c1d95&fire=7c3aed&currStreakLabel=a78bfa&sideLabels=a78bfa&currStreakNum=ddd6fe&sideNums=ddd6fe&dates=5b21b6&border_radius=8"/>
+<img width="70%" src="https://github-readme-streak-stats-salesp07.vercel.app?user=someshbharathwaj-ops&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0a0a0f&ring=4a2d8a&fire=9575cd&currStreakLabel=b39ddb&sideLabels=b39ddb&currStreakNum=f5f0ff&sideNums=f5f0ff&dates=6b5b95&border_radius=10"/>
 
 <br/><br/>
 
-<!-- MODULE C — CONTRIBUTION GRAPH -->
-
-```
-  [ MODULE C ]  CONTRIBUTION ACTIVITY  ·  area fill enabled
-```
-
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=someshbharathwaj-ops&theme=tokyo-night&hide_border=true&area=true&custom_title=commit+activity+stream&bg_color=000008&color=7c3aed&line=4c1d95&point=a78bfa&area_color=08002a&radius=8"/>
-
-<br/>
-
-```
-  ─────────────────────────────────────────────────────────────────
-  dashboard  ·  private commits included  ·  all-time history
-  ─────────────────────────────────────────────────────────────────
-```
+<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=someshbharathwaj-ops&hide_border=true&area=true&bg_color=0a0a0f&color=9575cd&line=4a2d8a&point=b39ddb&area_color=1a1040&custom_title=commit+activity&radius=10"/>
 
 </div>
 
@@ -469,26 +374,25 @@ ENV    Institutional · Scale
 
 <br/>
 
-<!-- ─────────────────────  SOFT DIVIDER  ──────────────────────────── -->
-<div align="center"><img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-000008?style=flat-square&labelColor=000008"/></div>
+<!-- thin rule -->
+<div align="center"><img src="https://img.shields.io/badge/--%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-12101e?style=flat-square&labelColor=12101e&color=2a2040"/></div>
 
 <br/>
 
+<!-- ================================================================ -->
+<!--                      SKILL MATRIX                                -->
+<!-- ================================================================ -->
 
-<!-- ┌──────────────────────────────────────────────────────────────┐  -->
-<!--   LEVEL 3 STATIC  ·  SKILL MATRIX                              -->
-<!-- └──────────────────────────────────────────────────────────────┘  -->
+<h2 align="center">◈ &nbsp; Skill Matrix</h2>
 
 <div align="center">
-<h2>⚡ &nbsp; Skill Matrix</h2>
-
-<table width="90%">
+<table width="86%">
 <tr>
-<td align="left" width="50%">
+<td width="50%" valign="top">
 
 ```
-  CORE COMPETENCIES
-  ────────────────────────────────────────
+ CORE COMPETENCIES
+ ──────────────────────────────────────
   RAG Engineering      ██████████  ●●●
   LLM Prompting        █████████░  ●●○
   Vector Search        █████████░  ●●○
@@ -497,180 +401,139 @@ ENV    Institutional · Scale
   ML Evaluation        ████████░░  ●●○
   Fine-Tuning (LoRA)   ██████░░░░  ●○○
   Algorithms & DS      ███████░░░  ●○○
-  ────────────────────────────────────────
+ ──────────────────────────────────────
 ```
 
 </td>
-<td align="left" width="50%">
+<td width="50%" valign="top">
 
 ```
-  ORIENTATION MATRIX
-  ────────────────────────────────────────
-  Research mindset      ██████████  10/10
-  Systems thinking      █████████░   9/10
-  Depth over breadth    ██████████  10/10
-  Documentation         ████████░░   8/10
-  Open-source intent    ███████░░░   7/10
-  Algo foundations      ███████░░░   7/10
-  Infrastructure feel   ███████░░░   7/10
-  Collaboration mode    ████████░░   8/10
-  ────────────────────────────────────────
+ ORIENTATION
+ ──────────────────────────────────────
+  Research mindset      ██████████  10
+  Systems thinking      █████████░   9
+  Depth over breadth    ██████████  10
+  Documentation         ████████░░   8
+  Open-source intent    ███████░░░   7
+  Algo foundations      ███████░░░   7
+  Infrastructure feel   ███████░░░   7
+  Collaboration mode    ████████░░   8
+ ──────────────────────────────────────
 ```
 
 </td>
 </tr>
 </table>
-
 </div>
 
 <br/>
 
-<!-- ─────────────────────  SOFT DIVIDER  ──────────────────────────── -->
-<div align="center"><img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-000008?style=flat-square&labelColor=000008"/></div>
+<!-- thin rule -->
+<div align="center"><img src="https://img.shields.io/badge/--%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-12101e?style=flat-square&labelColor=12101e&color=2a2040"/></div>
 
 <br/>
 
+<!-- ================================================================ -->
+<!--                    LEARNING ROADMAP                              -->
+<!-- ================================================================ -->
 
-<!-- ┌──────────────────────────────────────────────────────────────┐  -->
-<!--   LEVEL 3 STATIC  ·  LEARNING ROADMAP                          -->
-<!-- └──────────────────────────────────────────────────────────────┘  -->
-
-<div align="center">
-<h2>📚 &nbsp; Learning Roadmap</h2>
-</div>
+<h2 align="center">◈ &nbsp; Learning Roadmap</h2>
 
 <details>
-<summary><b>&nbsp; ◈ &nbsp; Active Courses & Deep-dive Areas</b></summary>
+<summary><b>↓ &nbsp; courses &amp; active study areas</b></summary>
 
 <br/>
 
 <div align="center">
 
-<table width="90%">
-<tr>
-<th align="center" width="5%">#</th>
-<th align="left" width="42%">Course / Topic</th>
-<th align="left" width="28%">Source</th>
-<th align="center" width="25%">Status</th>
-</tr>
-<tr>
-<td align="center"><code>01</code></td>
-<td>Algorithms — Graphs · DP · Optimization</td>
-<td>Univ. of Colorado, Coursera</td>
-<td align="center"><img src="https://img.shields.io/badge/in_progress-4c1d95?style=flat-square&labelColor=000008"/></td>
-</tr>
-<tr>
-<td align="center"><code>02</code></td>
-<td>Data Analysis with Python</td>
-<td>Self-directed</td>
-<td align="center"><img src="https://img.shields.io/badge/in_progress-4c1d95?style=flat-square&labelColor=000008"/></td>
-</tr>
-<tr>
-<td align="center"><code>03</code></td>
-<td>Introduction to RAG</td>
-<td>Self-directed</td>
-<td align="center"><img src="https://img.shields.io/badge/✓_completed-14532d?style=flat-square&labelColor=052e16"/></td>
-</tr>
-<tr>
-<td align="center"><code>04</code></td>
-<td>ML Fundamentals</td>
-<td>Self-directed</td>
-<td align="center"><img src="https://img.shields.io/badge/ongoing-3b0764?style=flat-square&labelColor=000008"/></td>
-</tr>
-<tr>
-<td align="center"><code>05</code></td>
-<td>Embedding Models & Dense Retrieval</td>
-<td>Self-directed</td>
-<td align="center"><img src="https://img.shields.io/badge/ongoing-3b0764?style=flat-square&labelColor=000008"/></td>
-</tr>
-</table>
+| # | Course / Topic | Source | Status |
+|:--:|:--|:--|:--:|
+| `01` | Algorithms — Graphs · DP · Optimisation | Univ. of Colorado, Coursera | ![](https://img.shields.io/badge/in%20progress-3d2a6e?style=flat-square&labelColor=12101e) |
+| `02` | Data Analysis with Python | Self-directed | ![](https://img.shields.io/badge/in%20progress-3d2a6e?style=flat-square&labelColor=12101e) |
+| `03` | Introduction to RAG | Self-directed | ![](https://img.shields.io/badge/completed-1a5c38?style=flat-square&labelColor=12101e) |
+| `04` | ML Fundamentals | Self-directed | ![](https://img.shields.io/badge/ongoing-2d1a5c?style=flat-square&labelColor=12101e) |
+| `05` | Embedding Models & Dense Retrieval | Self-directed | ![](https://img.shields.io/badge/ongoing-2d1a5c?style=flat-square&labelColor=12101e) |
 
 <br/>
 
-```
-  DEEP-DIVE RESEARCH AREAS
-  ─────────────────────────────────────────────────────────────────────
-   LLM Internals  ·  RAG Evaluation  ·  Dense vs Sparse Retrieval
-   Embedding Fine-tuning  ·  Graph Algorithms  ·  ML System Design
-  ─────────────────────────────────────────────────────────────────────
-```
+> `deep-dives` &nbsp; LLM internals &nbsp;·&nbsp; RAG evaluation &nbsp;·&nbsp; dense vs sparse retrieval &nbsp;·&nbsp; embedding fine-tuning &nbsp;·&nbsp; ML system design
 
 </div>
 </details>
 
 <br/>
 
-<!-- ─────────────────────  SOFT DIVIDER  ──────────────────────────── -->
-<div align="center"><img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-000008?style=flat-square&labelColor=000008"/></div>
+<!-- thin rule -->
+<div align="center"><img src="https://img.shields.io/badge/--%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-12101e?style=flat-square&labelColor=12101e&color=2a2040"/></div>
 
 <br/>
 
+<!-- ================================================================ -->
+<!--                      MISSION LOG                                 -->
+<!-- ================================================================ -->
 
-<!-- ┌──────────────────────────────────────────────────────────────┐  -->
-<!--   LEVEL 3 STATIC  ·  MISSION LOG                               -->
-<!-- └──────────────────────────────────────────────────────────────┘  -->
+<h2 align="center">◈ &nbsp; Mission Log</h2>
 
 <div align="center">
-<h2>🎯 &nbsp; Mission Log</h2>
-
-```
-  ╔══════════════════════════════════════════════════════════════════╗
-  ║                      TRAJECTORY REPORT                         ║
-  ╠══════════════╦═══════════════════════════════════════════════════╣
-  ║  ⚡ Short    ║  Ship RAG @ Evolab with solid eval coverage       ║
-  ║              ║  Complete invoice extractor pipeline              ║
-  ╠══════════════╬═══════════════════════════════════════════════════╣
-  ║  🔬 Mid      ║  Strong ML + algorithms foundation                ║
-  ║              ║  Meaningful open-source contributions in NLP/RAG  ║
-  ╠══════════════╬═══════════════════════════════════════════════════╣
-  ║  🌍 Long     ║  Fully funded MS / MTech in Germany               ║
-  ║              ║  or equivalent top-tier AI research institution   ║
-  ╠══════════════╬═══════════════════════════════════════════════════╣
-  ║  💡 Axiom    ║  Depth > Breadth.  Systems > Hype.                ║
-  ║              ║  Build things that last.                          ║
-  ╚══════════════╩═══════════════════════════════════════════════════╝
-```
-
+<table width="80%">
+<tr>
+<td align="right" width="12%"><sub><b>short</b></sub></td>
+<td width="3%"><sub>→</sub></td>
+<td><sub>Ship RAG system @ Evolab with solid evaluation coverage &nbsp;·&nbsp; complete invoice extractor</sub></td>
+</tr>
+<tr><td colspan="3" height="4"></td></tr>
+<tr>
+<td align="right" width="12%"><sub><b>mid</b></sub></td>
+<td><sub>→</sub></td>
+<td><sub>Strong ML + algorithms foundation &nbsp;·&nbsp; meaningful open-source contributions in NLP / RAG</sub></td>
+</tr>
+<tr><td colspan="3" height="4"></td></tr>
+<tr>
+<td align="right" width="12%"><sub><b>long</b></sub></td>
+<td><sub>→</sub></td>
+<td><sub>Fully funded MS / MTech in Germany or equivalent top-tier AI research institution</sub></td>
+</tr>
+<tr><td colspan="3" height="4"></td></tr>
+<tr>
+<td align="right" width="12%"><sub><b>axiom</b></sub></td>
+<td><sub>→</sub></td>
+<td><sub><i>Depth over breadth. &nbsp; Systems over hype. &nbsp; Build things that last.</i></sub></td>
+</tr>
+</table>
 </div>
 
 <br/>
 
-<!-- ─────────────────────  SOFT DIVIDER  ──────────────────────────── -->
-<div align="center"><img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-000008?style=flat-square&labelColor=000008"/></div>
+<!-- thin rule -->
+<div align="center"><img src="https://img.shields.io/badge/--%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-12101e?style=flat-square&labelColor=12101e&color=2a2040"/></div>
 
 <br/>
 
+<!-- ================================================================ -->
+<!--                        CONNECT                                   -->
+<!-- ================================================================ -->
 
-<!-- ┌──────────────────────────────────────────────────────────────┐  -->
-<!--   CONNECT  ·  LEVEL 2 MICRO-MOTION  ·  typing footer           -->
-<!-- └──────────────────────────────────────────────────────────────┘  -->
+<h2 align="center">◈ &nbsp; Connect</h2>
 
 <div align="center">
 
-<h2>🤝 &nbsp; Let's Connect</h2>
-
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/somesh-bharathwaj-35b413212)
-&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/somesh-bharathwaj-35b413212)
+&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/someshbharathwaj-ops)
-&nbsp;&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:somesh.k.bharathwaj@gmail.com)
-&nbsp;&nbsp;
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919385657645)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:somesh.k.bharathwaj@gmail.com)
+&nbsp;
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919385657645)
 
 <br/><br/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=4800&pause=1200&color=5B21B6&center=true&vCenter=true&width=640&height=24&lines=_+open+to%3A+research+collabs+·+ML+internships+·+AI+systems+conversations"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&weight=400&duration=5000&pause=1500&color=5B4A8A&center=true&vCenter=true&width=580&height=22&lines=open+to+research+collabs+·+ML+internships+·+AI+systems+conversations"/>
 
 <br/><br/>
 
-<!-- ┌──────────────────────────────────────────────────────────────┐  -->
-<!--   LEVEL 1 MOTION  ·  FOOTER  ·  cylinder  ·  mirrors header    -->
-<!-- └──────────────────────────────────────────────────────────────┘  -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000008,40:08002a,70:14005c,100:000008&height=120&section=footer&animation=blinking&reversal=true"/>
+<!-- FOOTER — soft wave, mirrors header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0f,50:1a1040,100:0a0a0f&height=120&section=footer&animation=fadeIn&reversal=true"/>
 
 </div>
