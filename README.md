@@ -1,4 +1,3 @@
-````markdown
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0D1117&height=240&section=header&text=SOMESH%20BHARATHWAJ&fontSize=52&animation=fadeIn&fontAlignY=40&fontColor=ede9fe&desc=AI%20RESEARCH%20%E2%80%A2%20SYSTEMS%20ENGINEERING%20%E2%80%A2%20RAG%20ARCHITECTURE&descSize=14&descAlignY=62&descColor=9d78f5"/>
