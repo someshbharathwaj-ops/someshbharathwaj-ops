@@ -1,25 +1,16 @@
-<!-- ╔═══════════════════════════════════════════════════════════════════╗ -->
-<!--              SOMESH BHARATHWAJ  ·  GitHub Profile  ·  FINAL        -->
-<!-- ╚═══════════════════════════════════════════════════════════════════╝ -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--              SOMESH BHARATHWAJ  ·  GitHub Profile README           -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 
-<!-- ░░░░░░░░░░░░░░░  LAYER 1 — SHARK ENTRY SWEEP  ░░░░░░░░░░░░░░░░░░░░ -->
-<!-- shark type creates an aggressive diagonal cut at top — premium feel  -->
+<!-- ░░░░░░░░░░░░░░░░░░  HEADER — waving rectangle  ░░░░░░░░░░░░░░░░░░ -->
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:0a0414,30:12063d,60:1e0b6b,100:0a0414&height=140&section=header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0720,25:180d55,50:251280,75:180d55,100:0b0720&height=280&section=header&text=Somesh%20Bharathwaj&fontSize=60&fontColor=ede9fe&animation=fadeIn&fontAlignY=42&desc=AI%20Engineer%20%E2%80%A2%20ML%20Researcher%20%E2%80%A2%20RAG%20Architect&descSize=17&descColor=9d7fef&descAlignY=60"/>
 </div>
 
 
-<!-- ░░░░░░░░░░░░░░░  LAYER 2 — WAVE TITLE CARD  ░░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- wave below shark creates a flowing double-band visual               -->
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:0a0414,30:160b52,60:2a1280,80:160b52,100:0a0414&height=220&section=header&text=Somesh%20Bharathwaj&fontSize=62&fontColor=ede9ff&animation=twinkling&fontAlignY=55&desc=AI%20Engineer%20%E2%80%A2%20ML%20Researcher%20%E2%80%A2%20RAG%20Architect&descSize=16&descColor=9d7fef&descAlignY=75&stroke=6b21a8&strokeWidth=1"/>
-</div>
-
-
-<!-- ░░░░░░░░░░░░░░░  LAYER 3 — TYPING ANIMATION  ░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ░░░░░░░░░░░░░░░░░░  TYPING  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=3800&pause=900&color=8B5CF6&center=true&vCenter=true&width=720&height=28&lines=%E2%9E%9C+Building+production+RAG+systems+from+first+principles;%E2%9E%9C+LLMs+%C2%B7+Embeddings+%C2%B7+Vector+Search+%C2%B7+Evaluation+Pipelines;%E2%9E%9C+B.Tech+CSE+%40+Amrita+%7C+BS+DS%26AI+%40+IIT+Madras;%E2%9E%9C+Depth+over+breadth.+Systems+over+hype."/>
@@ -27,7 +18,7 @@
 
 <br/>
 
-<!-- ░░░░░░░░░░░░░░░  BADGES  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ░░░░░░░░░░░░░░░░░░  BADGES  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=someshbharathwaj-ops&label=views&color=4c1d95&style=flat-square&labelColor=0d0a1a"/>
@@ -43,37 +34,38 @@
 
 <br/><br/>
 
-<!-- ██████████████████████████████████████████████████████████████████ -->
-<!--  NEURAL SIGNAL STREAM  ·  YOUR live contribution snake             -->
-<!--                                                                    -->
-<!--  ⚠️  ACTIVATE IN 5 MIN:                                            -->
-<!--  Create .github/workflows/snake.yml in your profile repo with:    -->
-<!--                                                                    -->
-<!--  name: Snake                                                       -->
-<!--  on:                                                               -->
-<!--    schedule: [{cron: "0 */12 * * *"}]                             -->
-<!--    workflow_dispatch:                                              -->
-<!--  jobs:                                                             -->
-<!--    generate:                                                       -->
-<!--      runs-on: ubuntu-latest                                        -->
-<!--      steps:                                                        -->
-<!--        - uses: Platane/snk/svg-only@v3                            -->
-<!--          with:                                                     -->
-<!--            github_user_name: someshbharathwaj-ops                 -->
-<!--            outputs: |                                             -->
-<!--              dist/github-contribution-grid-snake.svg              -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--   CONTRIBUTION SIGNAL STREAM  ·  YOUR snake, from YOUR repo        -->
+<!--                                                                     -->
+<!--  ⚠️  ONE-TIME SETUP (5 min):                                        -->
+<!--  1. In your profile repo, create:                                   -->
+<!--     .github/workflows/snake.yml                                     -->
+<!--  2. Paste this content:                                             -->
+<!--                                                                     -->
+<!--  name: Snake                                                        -->
+<!--  on:                                                                -->
+<!--    schedule: [{cron: "0 */12 * * *"}]                              -->
+<!--    workflow_dispatch:                                               -->
+<!--  jobs:                                                              -->
+<!--    generate:                                                        -->
+<!--      runs-on: ubuntu-latest                                         -->
+<!--      steps:                                                         -->
+<!--        - uses: Platane/snk/svg-only@v3                             -->
+<!--          with:                                                      -->
+<!--            github_user_name: someshbharathwaj-ops                  -->
+<!--            outputs: |                                               -->
+<!--              dist/github-contribution-grid-snake.svg               -->
 <!--              dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=a78bfa -->
-<!--        - uses: crazy-max/ghaction-github-pages@v3                 -->
-<!--          with:                                                     -->
-<!--            target_branch: output                                  -->
-<!--            build_dir: dist                                        -->
-<!--          env:                                                     -->
-<!--            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}             -->
-<!--                                                                   -->
-<!--  Then: Settings → Actions → General → Workflow permissions       -->
-<!--  → select "Read and write permissions" → Save                    -->
-<!--  Then: Actions tab → Snake → Run workflow                        -->
-<!-- ████████████████████████████████████████████████████████████████ -->
+<!--        - uses: crazy-max/ghaction-github-pages@v3                  -->
+<!--          with:                                                      -->
+<!--            target_branch: output                                    -->
+<!--            build_dir: dist                                          -->
+<!--          env:                                                       -->
+<!--            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}               -->
+<!--                                                                     -->
+<!--  3. Settings → Actions → General → Read and write permissions      -->
+<!--  4. Actions tab → Snake → Run workflow                             -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -91,21 +83,21 @@
     width="96%"/>
 </picture>
 
-<sup>node traversal active &nbsp;·&nbsp; refreshes every 12 h via GitHub Actions &nbsp;·&nbsp; powered by Platane/snk</sup>
+<sup>live node traversal &nbsp;·&nbsp; refreshes every 12 h &nbsp;·&nbsp; Platane/snk@v3</sup>
 
 </div>
 
 <br/>
 
-<!-- wave divider — narrow, acts as section separator -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:0a0414,50:12063d,100:0a0414&height=60&section=footer&reversal=false"/>
-</div>
+<!-- thin waving separator -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0720,50:180d55,100:0b0720&height=60&section=footer&reversal=false"/>
 
 
-<!-- ██████████████████████████████████████████████████████████████████ -->
-<!--                          IDENTITY                                  -->
-<!-- ██████████████████████████████████████████████████████████████████ -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                          IDENTITY                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<br/>
 
 <div align="center">
 <h2>◈ &nbsp; Identity</h2>
@@ -188,17 +180,15 @@ class SomeshBharathwaj:
 
 <br/>
 
-<!-- egg divider — organic blob shape, visually distinctive -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=egg&color=0:0a0414,50:160b52,100:0a0414&height=40&section=header&reversal=true"/>
-</div>
+<!-- thin waving separator -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0720,50:180d55,100:0b0720&height=60&section=header&reversal=true"/>
+
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                      RESEARCH DOMAINS                               -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <br/>
-
-
-<!-- ██████████████████████████████████████████████████████████████████ -->
-<!--                       RESEARCH DOMAINS                             -->
-<!-- ██████████████████████████████████████████████████████████████████ -->
 
 <div align="center">
 <h2>◈ &nbsp; Research Domains</h2>
@@ -246,17 +236,15 @@ class SomeshBharathwaj:
 
 <br/>
 
-<!-- rounded divider -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:0a0414,50:12063d,100:0a0414&height=40&section=header&reversal=false"/>
-</div>
+<!-- thin waving separator -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0720,50:180d55,100:0b0720&height=60&section=footer&reversal=false"/>
+
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                         PROJECTS                                    -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <br/>
-
-
-<!-- ██████████████████████████████████████████████████████████████████ -->
-<!--                         PROJECTS                                   -->
-<!-- ██████████████████████████████████████████████████████████████████ -->
 
 <div align="center">
 <h2>◈ &nbsp; Projects</h2>
@@ -334,7 +322,7 @@ stack  Python · RFID · Embedded
 stage  planning        ██░░░░░░░░  20%
 ```
 
-<sub>AI + embedded architecture for institutional-scale tracking. Built from the ground up for real-world reliability and accountability across a live institution.</sub>
+<sub>AI + embedded architecture for institutional-scale tracking. Built ground-up for real-world reliability and accountability across a live institution.</sub>
 
 <br/>
 <div align="center">
@@ -351,15 +339,15 @@ stage  planning        ██░░░░░░░░  20%
 
 <br/>
 
-<!-- wave divider -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:0a0414,50:12063d,100:0a0414&height=60&section=footer&reversal=true"/>
-</div>
+<!-- thin waving separator -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0720,50:180d55,100:0b0720&height=60&section=header&reversal=true"/>
 
 
-<!-- ██████████████████████████████████████████████████████████████████ -->
-<!--                         TECH STACK                                 -->
-<!-- ██████████████████████████████████████████████████████████████████ -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                         TECH STACK                                  -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<br/>
 
 <div align="center">
 <h2>◈ &nbsp; Tech Stack</h2>
@@ -384,15 +372,15 @@ stage  planning        ██░░░░░░░░  20%
 
 <br/>
 
-<!-- shark divider — dramatic upward cut -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:0a0414,30:12063d,60:1e0b6b,100:0a0414&height=80&section=footer"/>
-</div>
+<!-- thin waving separator -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0720,50:180d55,100:0b0720&height=60&section=footer&reversal=false"/>
 
 
-<!-- ██████████████████████████████████████████████████████████████████ -->
-<!--                    GITHUB STATS DASHBOARD                          -->
-<!-- ██████████████████████████████████████████████████████████████████ -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                     GITHUB STATS DASHBOARD                          -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<br/>
 
 <div align="center">
 <h2>◈ &nbsp; GitHub Stats</h2>
@@ -406,17 +394,17 @@ stage  planning        ██░░░░░░░░  20%
 <div align="center">
 
 <!-- PERFORMANCE -->
-<img width="70%" src="https://github-readme-stats.vercel.app/api?username=someshbharathwaj-ops&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0a0414&title_color=9d7fef&icon_color=6d28d9&text_color=c4b5fd&ring_color=4c1d95&border_radius=12"/>
+<img width="70%" src="https://github-readme-stats.vercel.app/api?username=someshbharathwaj-ops&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0b0720&title_color=9d7fef&icon_color=6d28d9&text_color=c4b5fd&ring_color=4c1d95&border_radius=12"/>
 
 <br/><br/>
 
-<!-- DAY-WISE STREAK — date_format shows day/month, mode=daily -->
-<img width="70%" src="https://streak-stats.demolab.com?user=someshbharathwaj-ops&hide_border=true&background=0a0414&stroke=4c1d95&ring=6d28d9&fire=9d7fef&currStreakLabel=c4b5fd&sideLabels=c4b5fd&currStreakNum=ede9ff&sideNums=ede9ff&dates=8b5cf6&border_radius=12&date_format=j%20M%5B%2C%20Y%5D&mode=daily&card_width=700"/>
+<!-- DAY-WISE STREAK -->
+<img width="70%" src="https://streak-stats.demolab.com?user=someshbharathwaj-ops&hide_border=true&background=0b0720&stroke=4c1d95&ring=6d28d9&fire=9d7fef&currStreakLabel=c4b5fd&sideLabels=c4b5fd&currStreakNum=ede9ff&sideNums=ede9ff&dates=8b5cf6&border_radius=12&date_format=j%20M%5B%2C%20Y%5D&mode=daily"/>
 
 <br/><br/>
 
 <!-- CONTRIBUTION GRAPH -->
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=someshbharathwaj-ops&hide_border=true&area=true&bg_color=0a0414&color=9d7fef&line=6d28d9&point=c4b5fd&area_color=160b52&custom_title=daily+commit+activity&radius=12"/>
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=someshbharathwaj-ops&hide_border=true&area=true&bg_color=0b0720&color=9d7fef&line=6d28d9&point=c4b5fd&area_color=180d55&custom_title=daily+commit+activity&radius=12"/>
 
 </div>
 
@@ -424,17 +412,15 @@ stage  planning        ██░░░░░░░░  20%
 
 <br/>
 
-<!-- egg divider -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=egg&color=0:0a0414,50:12063d,100:0a0414&height=40&section=footer&reversal=false"/>
-</div>
+<!-- thin waving separator -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0720,50:180d55,100:0b0720&height=60&section=header&reversal=true"/>
+
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                        SKILL MATRIX                                 -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <br/>
-
-
-<!-- ██████████████████████████████████████████████████████████████████ -->
-<!--                        SKILL MATRIX                                -->
-<!-- ██████████████████████████████████████████████████████████████████ -->
 
 <div align="center">
 <h2>◈ &nbsp; Skill Matrix</h2>
@@ -481,15 +467,15 @@ stage  planning        ██░░░░░░░░  20%
 
 <br/>
 
-<!-- wave divider -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:0a0414,50:160b52,100:0a0414&height=60&section=header&reversal=false"/>
-</div>
+<!-- thin waving separator -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0720,50:180d55,100:0b0720&height=60&section=footer&reversal=false"/>
 
 
-<!-- ██████████████████████████████████████████████████████████████████ -->
-<!--                      LEARNING ROADMAP                              -->
-<!-- ██████████████████████████████████████████████████████████████████ -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                      LEARNING ROADMAP                               -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<br/>
 
 <div align="center">
 <h2>◈ &nbsp; Learning Roadmap</h2>
@@ -519,17 +505,15 @@ stage  planning        ██░░░░░░░░  20%
 
 <br/>
 
-<!-- rounded divider -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:0a0414,50:12063d,100:0a0414&height=40&section=footer&reversal=true"/>
-</div>
+<!-- thin waving separator -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0720,50:180d55,100:0b0720&height=60&section=header&reversal=true"/>
+
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                         MISSION LOG                                 -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <br/>
-
-
-<!-- ██████████████████████████████████████████████████████████████████ -->
-<!--                         MISSION LOG                                -->
-<!-- ██████████████████████████████████████████████████████████████████ -->
 
 <div align="center">
 <h2>◈ &nbsp; Mission Log</h2>
@@ -561,17 +545,11 @@ stage  planning        ██░░░░░░░░  20%
 </table>
 </div>
 
-<br/>
+<br/><br/>
 
-<!-- shark divider before connect -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:0a0414,30:12063d,60:1e0b6b,100:0a0414&height=80&section=header"/>
-</div>
-
-
-<!-- ██████████████████████████████████████████████████████████████████ -->
-<!--                           CONNECT                                  -->
-<!-- ██████████████████████████████████████████████████████████████████ -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                           CONNECT                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 <h2>◈ &nbsp; Connect</h2>
@@ -592,8 +570,7 @@ stage  planning        ██░░░░░░░░  20%
 
 <br/><br/>
 
-<!-- FOOTER — wave+shark combo, mirrors the entry sweep -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:0a0414,30:160b52,60:2a1280,80:160b52,100:0a0414&height=120&section=footer&animation=twinkling&reversal=true"/>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:0a0414,30:12063d,60:1e0b6b,100:0a0414&height=80&section=footer&reversal=true"/>
+<!-- FOOTER — waving, mirrors header colour, reversal=true flips the wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0720,25:180d55,50:251280,75:180d55,100:0b0720&height=200&section=footer&animation=twinkling&reversal=true"/>
 
 </div>
