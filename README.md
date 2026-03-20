@@ -1,29 +1,22 @@
 <!-- ╔═══════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║  SOMESH BHARATHWAJ  ·  AI SYSTEMS ENGINEER                              ║ -->
+<!-- ║  SOMESH BHARATHWAJ  ·  AI SYSTEMS ENGINEER  ·  RAG ARCHITECT            ║ -->
 <!-- ║  Cognitive Systems Manifest  ·  Research Identity Interface             ║ -->
-<!-- ║  Theme: Neural Horizon  ·  Indigo Signal  ·  Research Terminal          ║ -->
 <!-- ╚═══════════════════════════════════════════════════════════════════════════╝ -->
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--  MODULE 00  ·  COGNITIVE LANDING INTERFACE                                -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════ HERO LANDING ═══════════════════════════════ -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:010010,15:04003a,35:080060,55:04003a,80:010010,100:010010&height=360&section=header&text=SOMESH%20BHARATHWAJ&fontSize=56&fontColor=e0e7ff&animation=fadeIn&fontAlignY=36&desc=AI%20Systems%20Engineer%20·%20RAG%20Architect%20·%20ML%20Research%20Engineer&descSize=16&descColor=6366f1&descAlignY=55&stroke=312e81&strokeWidth=1"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:010010,15:04003a,35:080060,55:04003a,80:010010,100:010010&height=360&section=header&text=SOMESH%20BHARATHWAJ&fontSize=56&fontColor=e0e7ff&animation=fadeIn&fontAlignY=36&desc=AI%20Systems%20Engineer%20·%20RAG%20Architect%20·%20ML%20Research%20Engineer&descSize=16&descColor=6366f1&descAlignY=56&stroke=312e81&strokeWidth=1"/>
 
-</div>
+<br/>
 
-<div align="center">
-
-<!-- Primary signal stream -->
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=14&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=800&height=28&lines=%5BSYS%5D+Initializing+retrieval+architecture...+OK;%5BRAG%5D+Vector+index+loaded+%E2%80%94+precision+mode+active;%5BLLM%5D+Evaluation+pipeline+nominal;%5BEMBED%5D+Dense+retrieval+engine+online;%5BINF%5D+Depth+%3E+Breadth.+Systems+%3E+Hype.+Infrastructure+%3E+Demos."/>
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=14&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=820&height=28&lines=%5BSYS%5D+Initializing+retrieval+architecture...+OK;%5BRAG%5D+Vector+index+loaded+%E2%80%94+precision+mode+active;%5BLLM%5D+Evaluation+pipeline+nominal;%5BEMBED%5D+Dense+retrieval+engine+online;%5BINF%5D+Depth+%3E+Breadth.+Systems+%3E+Hype.+Infrastructure+%3E+Demos."/>
 
 <br/><br/>
 
-<!-- System status strip -->
 <img src="https://komarev.com/ghpvc/?username=someshbharathwaj-ops&label=signal+hits&color=0d0230&style=flat-square&labelColor=080040"/>&nbsp;
-<img src="https://img.shields.io/badge/SYS-ONLINE-10b981?style=flat-square&labelColor=052e16&logo=statuspage&logoColor=10b981"/>&nbsp;
+<img src="https://img.shields.io/badge/SYS-ONLINE-10b981?style=flat-square&labelColor=052e16"/>&nbsp;
 <img src="https://img.shields.io/badge/MODE-RESEARCH_ACTIVE-6366f1?style=flat-square&labelColor=1e1b4b"/>&nbsp;
 <img src="https://img.shields.io/badge/COLLAB-OPEN-0891b2?style=flat-square&labelColor=0c1a2e"/>&nbsp;
 <img src="https://img.shields.io/badge/VECTOR-MS_%2F_MTech_%E2%86%92_Germany-f59e0b?style=flat-square&labelColor=1c1007"/>
@@ -32,13 +25,11 @@
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--  NEURAL ACTIVITY TRAVERSAL  ·  CONTRIBUTION SIGNAL                       -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- ════════════════════════ NEURAL ACTIVITY STREAM ════════════════════════════ -->
 
 <div align="center">
 
-<sub><code>[ NEURAL ACTIVITY  ·  COMMIT TRAVERSAL  ·  COGNITIVE GRID ]</code></sub>
+<sub><code>[ NEURAL ACTIVITY · COMMIT TRAVERSAL · COGNITIVE GRID ]</code></sub>
 
 <br/>
 
@@ -62,9 +53,7 @@
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--  MODULE 01  ·  RESEARCH IDENTITY                                          -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════ MOD-01 · IDENTITY ══════════════════════════════ -->
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:010010,50:1e1b4b,100:010010&height=48&section=header&text=%5B%20MOD-01%20%5D%20%C2%B7%20RESEARCH%20IDENTITY&fontSize=15&fontColor=6366f1&animation=fadeIn&fontAlignY=68"/>
@@ -77,13 +66,12 @@
 ```python
 # /sys/identity/core.py
 # ─────────────────────────────────────────────────
-# Cognitive Architecture · Research Systems Build
 
 class ResearchEngineer:
     """
     Building retrieval infrastructure at depth.
     Not chasing benchmarks — building systems
-    that hold under real-world load.
+    that hold under real-world production load.
     """
 
     id       = "somesh.bharathwaj"
@@ -141,7 +129,6 @@ class ResearchEngineer:
 │                                             │
 ├─────────────────────────────────────────────┤
 │  SYSTEM TELEMETRY                           │
-│  ─────────────────────────────────────────  │
 │  Research mode   ████████████  ENGAGED     │
 │  Collab channel  ████████████  OPEN        │
 │  Germany track   ████░░░░░░░░  LOADING     │
@@ -158,9 +145,7 @@ class ResearchEngineer:
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--  MODULE 02  ·  AI SYSTEMS ARCHITECTURE                                    -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- ════════════════════ MOD-02 · AI SYSTEMS ARCHITECTURE ════════════════════ -->
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:010010,50:1e1b4b,100:010010&height=48&section=header&text=%5B%20MOD-02%20%5D%20%C2%B7%20AI%20SYSTEMS%20ARCHITECTURE&fontSize=15&fontColor=6366f1&animation=fadeIn&fontAlignY=68"/>
@@ -170,17 +155,17 @@ class ResearchEngineer:
 
 ```
   RETRIEVAL PIPELINE ARCHITECTURE
-  ─────────────────────────────────────────────────────────────────────────
-  
+  ──────────────────────────────────────────────────────────────────────────
+
   [CORPUS]──▶[CHUNKER]──▶[EMBEDDER]──▶[VECTOR INDEX]──▶[RETRIEVER]──▶[LLM]
-      │                       │              │                │
-   raw docs           bi-encoder       FAISS/Chroma      ANN search
-   PDFs/HTML          fine-tuned       quantized         top-k rerank
-   structured         contrastive      HNSW graph        precision eval
-   
-  ─────────────────────────────────────────────────────────────────────────
-  EVAL LOOP:  [RAGAS] ──▶ [faithfulness · relevance · context recall] ──▶ ⟳
-  ─────────────────────────────────────────────────────────────────────────
+      │                       │               │               │
+   raw docs            bi-encoder        FAISS/Chroma     ANN search
+   PDFs/HTML           fine-tuned        quantized        top-k rerank
+   structured          contrastive       HNSW graph       precision eval
+
+  ──────────────────────────────────────────────────────────────────────────
+  EVAL:  [RAGAS] ──▶ [ faithfulness · relevance · context recall ] ──▶ ⟳
+  ──────────────────────────────────────────────────────────────────────────
 ```
 
 </div>
@@ -188,47 +173,45 @@ class ResearchEngineer:
 <br/>
 
 <div align="center">
-
 <table width="92%" border="0" cellspacing="6">
 <tr>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/RETRIEVAL_SYSTEMS-1e1b4b?style=for-the-badge&logoColor=818cf8"/>
+<img src="https://img.shields.io/badge/RETRIEVAL_SYSTEMS-1e1b4b?style=for-the-badge"/>
 <br/><sub>Dense · Sparse · Hybrid · ANN<br/>Re-ranking · Precision at K</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/LLMs_%26_AGENTS-1e1b4b?style=for-the-badge&logoColor=818cf8"/>
+<img src="https://img.shields.io/badge/LLMs_%26_AGENTS-1e1b4b?style=for-the-badge"/>
 <br/><sub>CoT · Tool Use · Structured Output<br/>RAGAS Evaluation Frameworks</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/EMBEDDING_MODELS-1e1b4b?style=for-the-badge&logoColor=818cf8"/>
+<img src="https://img.shields.io/badge/EMBEDDING_MODELS-1e1b4b?style=for-the-badge"/>
 <br/><sub>Bi-encoders · Contrastive Training<br/>STS · Fine-tuning · Adaptation</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/RAG_ARCHITECTURE-1e1b4b?style=for-the-badge&logoColor=818cf8"/>
+<img src="https://img.shields.io/badge/RAG_ARCHITECTURE-1e1b4b?style=for-the-badge"/>
 <br/><sub>Chunk → Index → Re-rank → Eval<br/>End-to-end Quality Metrics</sub>
 </td>
 </tr>
 <tr><td colspan="4" height="10"></td></tr>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/VECTOR_DATABASES-140a40?style=for-the-badge&logoColor=818cf8"/>
+<img src="https://img.shields.io/badge/VECTOR_DATABASES-140a40?style=for-the-badge"/>
 <br/><sub>FAISS · Chroma · Pinecone<br/>HNSW · Quantization · Scaling</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/FINE%E2%80%93TUNING-140a40?style=for-the-badge&logoColor=818cf8"/>
+<img src="https://img.shields.io/badge/FINE--TUNING-140a40?style=for-the-badge"/>
 <br/><sub>LoRA · QLoRA · PEFT<br/>Task-Specific Alignment</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/ML_THEORY-140a40?style=for-the-badge&logoColor=818cf8"/>
+<img src="https://img.shields.io/badge/ML_THEORY-140a40?style=for-the-badge"/>
 <br/><sub>Transformers · Attention Mechanics<br/>Scaling Laws · RLHF Concepts</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/SYSTEMS_DESIGN-140a40?style=for-the-badge&logoColor=818cf8"/>
+<img src="https://img.shields.io/badge/SYSTEMS_DESIGN-140a40?style=for-the-badge"/>
 <br/><sub>Eval Infra · Serving · Hardening<br/>Production ML Lifecycle</sub>
 </td>
 </tr>
 </table>
-
 </div>
 
 <br/>
@@ -237,9 +220,7 @@ class ResearchEngineer:
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--  MODULE 03  ·  INTELLIGENCE STACK                                         -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════ MOD-03 · INTELLIGENCE STACK ═══════════════════════ -->
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:010010,50:1e1b4b,100:010010&height=48&section=header&text=%5B%20MOD-03%20%5D%20%C2%B7%20INTELLIGENCE%20STACK&fontSize=15&fontColor=6366f1&animation=fadeIn&fontAlignY=68"/>
@@ -251,7 +232,6 @@ class ResearchEngineer:
 
 <br/><br/>
 
-<!-- Core AI Layer -->
 <img src="https://img.shields.io/badge/HuggingFace-1e1b4b?style=for-the-badge&logo=huggingface&logoColor=818cf8"/>
 <img src="https://img.shields.io/badge/LangChain-0d1424?style=for-the-badge&logo=chainlink&logoColor=818cf8"/>
 <img src="https://img.shields.io/badge/OpenAI_API-0a0a1e?style=for-the-badge&logo=openai&logoColor=818cf8"/>
@@ -260,7 +240,6 @@ class ResearchEngineer:
 
 <br/>
 
-<!-- Data + Eval Layer -->
 <img src="https://img.shields.io/badge/scikit--learn-071a10?style=for-the-badge&logo=scikitlearn&logoColor=10b981"/>
 <img src="https://img.shields.io/badge/NumPy-061414?style=for-the-badge&logo=numpy&logoColor=10b981"/>
 <img src="https://img.shields.io/badge/Pandas-061414?style=for-the-badge&logo=pandas&logoColor=10b981"/>
@@ -275,9 +254,7 @@ class ResearchEngineer:
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--  MODULE 04  ·  ACTIVE INTELLIGENCE PIPELINES                              -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════ MOD-04 · ACTIVE INTELLIGENCE PIPELINES ════════════════ -->
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:010010,50:1e1b4b,100:010010&height=48&section=header&text=%5B%20MOD-04%20%5D%20%C2%B7%20ACTIVE%20INTELLIGENCE%20PIPELINES&fontSize=15&fontColor=6366f1&animation=fadeIn&fontAlignY=68"/>
@@ -288,7 +265,7 @@ class ResearchEngineer:
 
 <td width="33%" valign="top" align="center">
 
-<img src="https://img.shields.io/badge/SYS_01%20·%20RAG_PIPELINE-4338ca?style=for-the-badge&labelColor=1e1b4b"/>
+<img src="https://img.shields.io/badge/SYS__01_%C2%B7_RAG_PIPELINE-4338ca?style=for-the-badge&labelColor=1e1b4b"/>
 
 <br/><br/>
 
@@ -302,7 +279,7 @@ stage     ████████░░  80%
 signal    🔥  ACTIVE
 ```
 
-Adaptive chunking strategy · multi-modal vector indexing · end-to-end RAGAS evaluation framework · retrieval precision + answer quality benchmarking at scale.
+Adaptive chunking strategy · multi-modal vector indexing · end-to-end RAGAS evaluation · retrieval precision + answer quality benchmarking at scale.
 
 <br/>
 
@@ -315,7 +292,7 @@ Adaptive chunking strategy · multi-modal vector indexing · end-to-end RAGAS ev
 
 <td width="33%" valign="top" align="center">
 
-<img src="https://img.shields.io/badge/SYS_02%20·%20DOC_INTELLIGENCE-4338ca?style=for-the-badge&labelColor=1e1b4b"/>
+<img src="https://img.shields.io/badge/SYS__02_%C2%B7_DOC_INTELLIGENCE-4338ca?style=for-the-badge&labelColor=1e1b4b"/>
 
 <br/><br/>
 
@@ -341,7 +318,7 @@ High layout-variance document intelligence · transformer-backed field classific
 
 <td width="33%" valign="top" align="center">
 
-<img src="https://img.shields.io/badge/SYS_03%20·%20EMBEDDED_AI-4338ca?style=for-the-badge&labelColor=1e1b4b"/>
+<img src="https://img.shields.io/badge/SYS__03_%C2%B7_EMBEDDED_AI-4338ca?style=for-the-badge&labelColor=1e1b4b"/>
 
 <br/><br/>
 
@@ -374,9 +351,7 @@ AI + embedded architecture for institutional-scale accountability · ground-up r
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--  MODULE 05  ·  RESEARCH ANALYTICS                                         -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- ════════════════════════ MOD-05 · RESEARCH ANALYTICS ═════════════════════ -->
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:010010,50:1e1b4b,100:010010&height=48&section=header&text=%5B%20MOD-05%20%5D%20%C2%B7%20RESEARCH%20ANALYTICS&fontSize=15&fontColor=6366f1&animation=fadeIn&fontAlignY=68"/>
@@ -389,7 +364,7 @@ AI + embedded architecture for institutional-scale accountability · ground-up r
 
 <div align="center">
 
-<sub><code>[ OUTPUT SIGNAL  ·  COMMIT TELEMETRY  ·  LANGUAGE DISTRIBUTION ]</code></sub>
+<sub><code>[ OUTPUT SIGNAL · COMMIT TELEMETRY · LANGUAGE DISTRIBUTION ]</code></sub>
 
 <br/>
 
@@ -399,7 +374,7 @@ AI + embedded architecture for institutional-scale accountability · ground-up r
 
 <br/><br/>
 
-<sub><code>[ RESEARCH RHYTHM  ·  COMMIT STREAK  ·  CONSISTENCY SIGNAL ]</code></sub>
+<sub><code>[ RESEARCH RHYTHM · COMMIT STREAK · CONSISTENCY SIGNAL ]</code></sub>
 
 <br/>
 
@@ -407,7 +382,7 @@ AI + embedded architecture for institutional-scale accountability · ground-up r
 
 <br/><br/>
 
-<sub><code>[ EXPERIMENTATION RHYTHM  ·  DAILY COMMIT VELOCITY ]</code></sub>
+<sub><code>[ EXPERIMENTATION RHYTHM · DAILY COMMIT VELOCITY ]</code></sub>
 
 <br/>
 
@@ -423,16 +398,13 @@ AI + embedded architecture for institutional-scale accountability · ground-up r
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--  MODULE 06  ·  KNOWLEDGE GRAPH / SKILL MATRIX                            -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- ════════════════════════ MOD-06 · KNOWLEDGE GRAPH ════════════════════════ -->
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:010010,50:1e1b4b,100:010010&height=48&section=header&text=%5B%20MOD-06%20%5D%20%C2%B7%20KNOWLEDGE%20GRAPH&fontSize=15&fontColor=6366f1&animation=fadeIn&fontAlignY=68"/>
 </div>
 
 <div align="center">
-
 <table width="92%" border="0" cellspacing="0">
 <tr>
 <td width="50%" valign="top">
@@ -473,7 +445,6 @@ RESEARCH ORIENTATION  ·  COGNITIVE PROFILE
 </td>
 </tr>
 </table>
-
 </div>
 
 <br/>
@@ -482,9 +453,7 @@ RESEARCH ORIENTATION  ·  COGNITIVE PROFILE
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--  MODULE 07  ·  LEARNING TRAJECTORY ENGINE                                 -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════ MOD-07 · LEARNING TRAJECTORY ══════════════════════ -->
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:010010,50:1e1b4b,100:010010&height=48&section=header&text=%5B%20MOD-07%20%5D%20%C2%B7%20LEARNING%20TRAJECTORY&fontSize=15&fontColor=6366f1&animation=fadeIn&fontAlignY=68"/>
@@ -509,11 +478,11 @@ RESEARCH ORIENTATION  ·  COGNITIVE PROFILE
 
 ```
 DEEP-DIVE RESEARCH ZONES
-─────────────────────────────────────────────────────────────────────────
+──────────────────────────────────────────────────────────────────────
   LLM internals · RAG evaluation metrics · dense vs sparse retrieval
   embedding fine-tuning strategies · ML system design patterns
   transformer architecture · attention mechanisms · RLHF concepts
-─────────────────────────────────────────────────────────────────────────
+──────────────────────────────────────────────────────────────────────
 ```
 
 </div>
@@ -526,16 +495,13 @@ DEEP-DIVE RESEARCH ZONES
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--  MODULE 08  ·  MISSION PROTOCOL                                           -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════ MOD-08 · MISSION PROTOCOL ════════════════════ -->
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:010010,50:1e1b4b,100:010010&height=48&section=header&text=%5B%20MOD-08%20%5D%20%C2%B7%20MISSION%20PROTOCOL&fontSize=15&fontColor=6366f1&animation=fadeIn&fontAlignY=68"/>
 </div>
 
 <div align="center">
-
 <table width="82%" border="0" cellspacing="0" cellpadding="10">
 <tr>
 <td align="right" width="100px"><img src="https://img.shields.io/badge/T--0-312e81?style=flat-square&labelColor=080820"/></td>
@@ -554,7 +520,6 @@ DEEP-DIVE RESEARCH ZONES
 <td><i>Depth over breadth. &nbsp; Systems over hype. &nbsp; Build infrastructure that outlasts the model.</i></td>
 </tr>
 </table>
-
 </div>
 
 <br/>
@@ -563,9 +528,7 @@ DEEP-DIVE RESEARCH ZONES
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--  MODULE 09  ·  COLLABORATION GATEWAY                                      -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════ MOD-09 · COLLABORATION GATEWAY ════════════════════ -->
 
 <div align="center">
 
@@ -592,7 +555,6 @@ DEEP-DIVE RESEARCH ZONES
 
 <br/><br/>
 
-<!-- FOOTER TRANSMISSION -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:010010,15:04003a,35:080060,55:04003a,80:010010,100:010010&height=220&section=footer&animation=twinkling&reversal=true"/>
 
 </div>
