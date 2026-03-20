@@ -1,392 +1,305 @@
-<!-- ╔═══════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║  SOMESH BHARATHWAJ  ·  AI SYSTEMS ENGINEER  ·  RAG ARCHITECT            ║ -->
-<!-- ║  Cognitive Systems Manifest  ·  Research Identity Interface             ║ -->
-<!-- ╚═══════════════════════════════════════════════════════════════════════════╝ -->
+<!--              SOMESH BHARATHWAJ  ·  GitHub Profile README           -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<!-- ═══════════════════════════════ HERO LANDING ═══════════════════════════════ -->
+
+<!-- ░░░░░░░░░░░░░░░░░░  HEADER — waving rectangle  ░░░░░░░░░░░░░░░░░░ -->
 
 <div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0720,25:180d55,50:251280,75:180d55,100:0b0720&height=280&section=header&text=Somesh%20Bharathwaj&fontSize=60&fontColor=ede9fe&animation=fadeIn&fontAlignY=42&desc=AI%20Engineer%20%E2%80%A2%20ML%20Researcher%20%E2%80%A2%20RAG%20Architect&descSize=17&descColor=9d7fef&descAlignY=60"/>
+</div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:010010,15:04003a,35:080060,55:04003a,80:010010,100:010010&height=360&section=header&text=SOMESH%20BHARATHWAJ&fontSize=56&fontColor=e0e7ff&animation=fadeIn&fontAlignY=36&desc=AI%20Systems%20Engineer%20·%20RAG%20Architect%20·%20ML%20Research%20Engineer&descSize=16&descColor=6366f1&descAlignY=56&stroke=312e81&strokeWidth=1"/>
+
+<!-- ░░░░░░░░░░░░░░░░░░  TYPING  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=3800&pause=900&color=8B5CF6&center=true&vCenter=true&width=720&height=28&lines=%E2%9E%9C+Building+production+RAG+systems+from+first+principles;%E2%9E%9C+LLMs+%C2%B7+Embeddings+%C2%B7+Vector+Search+%C2%B7+Evaluation+Pipelines;%E2%9E%9C+B.Tech+CSE+%40+Amrita+%7C+BS+DS%26AI+%40+IIT+Madras;%E2%9E%9C+Depth+over+breadth.+Systems+over+hype."/>
+</div>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=14&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=820&height=28&lines=%5BSYS%5D+Initializing+retrieval+architecture...+OK;%5BRAG%5D+Vector+index+loaded+%E2%80%94+precision+mode+active;%5BLLM%5D+Evaluation+pipeline+nominal;%5BEMBED%5D+Dense+retrieval+engine+online;%5BINF%5D+Depth+%3E+Breadth.+Systems+%3E+Hype.+Infrastructure+%3E+Demos."/>
+<!-- ░░░░░░░░░░░░░░░░░░  BADGES  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=someshbharathwaj-ops&label=views&color=4c1d95&style=flat-square&labelColor=0d0a1a"/>
+  &nbsp;
+@@ -35,11 +27,10 @@
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=someshbharathwaj-ops&label=signal+hits&color=0d0230&style=flat-square&labelColor=080040"/>&nbsp;
-<img src="https://img.shields.io/badge/SYS-ONLINE-10b981?style=flat-square&labelColor=052e16"/>&nbsp;
-<img src="https://img.shields.io/badge/MODE-RESEARCH_ACTIVE-6366f1?style=flat-square&labelColor=1e1b4b"/>&nbsp;
-<img src="https://img.shields.io/badge/COLLAB-OPEN-0891b2?style=flat-square&labelColor=0c1a2e"/>&nbsp;
-<img src="https://img.shields.io/badge/VECTOR-MS_%2F_MTech_%E2%86%92_Germany-f59e0b?style=flat-square&labelColor=1c1007"/>
-
-</div>
-
-<br/>
-
-<!-- ════════════════════════ NEURAL ACTIVITY STREAM ════════════════════════════ -->
-
-<div align="center">
-
-<sub><code>[ NEURAL ACTIVITY · COMMIT TRAVERSAL · COGNITIVE GRID ]</code></sub>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/someshbharathwaj-ops/someshbharathwaj-ops/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/someshbharathwaj-ops/someshbharathwaj-ops/output/github-contribution-grid-snake.svg"/>
-  <img alt="neural activity traversal"
-       src="https://raw.githubusercontent.com/someshbharathwaj-ops/someshbharathwaj-ops/output/github-contribution-grid-snake-dark.svg"
-       width="96%"/>
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--   CONTRIBUTION SIGNAL STREAM  ·  YOUR snake, from YOUR repo        -->
+<!--   CONTRIBUTION SIGNAL STREAM                                        -->
+<!--                                                                     -->
+<!--  ⚠️  ONE-TIME SETUP (5 min):                                        -->
+<!--  1. In your profile repo, create:                                   -->
+<!--     .github/workflows/snake.yml                                     -->
+<!--  1. In your profile repo create: .github/workflows/snake.yml       -->
+<!--  2. Paste this content:                                             -->
+<!--                                                                     -->
+<!--  name: Snake                                                        -->
+@@ -83,29 +74,29 @@
+    width="96%"/>
 </picture>
 
-<sub>cognitive node traversal &nbsp;·&nbsp; refresh interval: 12h &nbsp;·&nbsp; engine: Platane/snk@v3</sub>
+<sup>live node traversal &nbsp;·&nbsp; refreshes every 12 h &nbsp;·&nbsp; Platane/snk@v3</sup>
+<sub>live node traversal &nbsp;·&nbsp; refreshes every 12 h &nbsp;·&nbsp; Platane/snk@v3</sub>
 
 </div>
 
 <br/>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:010010,40:312e81,60:312e81,100:010010&height=1&width=100%"/></div>
+<!-- thin waving separator -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0720,50:180d55,100:0b0720&height=60&section=footer&reversal=false"/>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0720,50:180d55,100:0b0720&height=60&section=footer&reversal=false"/>
+</div>
 
 <br/>
 
-<!-- ══════════════════════════ MOD-01 · IDENTITY ══════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                          IDENTITY                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:010010,50:1e1b4b,100:010010&height=48&section=header&text=%5B%20MOD-01%20%5D%20%C2%B7%20RESEARCH%20IDENTITY&fontSize=15&fontColor=6366f1&animation=fadeIn&fontAlignY=68"/>
+<h2>◈ &nbsp; Identity</h2>
+  <h2>◈ &nbsp; Identity</h2>
 </div>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<table width="100%">
+<table width="100%" cellspacing="0" cellpadding="8">
 <tr>
 <td width="53%" valign="top">
+<td width="54%" valign="top">
 
 ```python
-# /sys/identity/core.py
-# ─────────────────────────────────────────────────
-
-class ResearchEngineer:
-    """
-    Building retrieval infrastructure at depth.
-    Not chasing benchmarks — building systems
-    that hold under real-world production load.
-    """
-
-    id       = "somesh.bharathwaj"
-    role     = "AI Systems Engineer"
-    node     = "Bengaluru, India"
-
-    education = {
-        "B.Tech CSE" : "Amrita University",
-        "BS DS & AI" : "IIT Madras"       ,
-    }
-
-    research_vectors = [
-        "Production RAG Systems",
-        "Embedding Models & Dense Retrieval",
-        "LLM Evaluation Pipelines",
-        "ML Systems Design & Serving",
-    ]
-
-    active_systems = {
-        "Evolab RAG"  : ("████████░░", "80%", "LIVE" ),
-        "Invoice AI"  : ("█████░░░░░", "50%", "BUILD"),
-        "RFID + AI"   : ("██░░░░░░░░", "20%", "PLAN" ),
-    }
-
-    operating_axiom = "Depth > Breadth. Systems > Hype."
-    long_vector     = "MS/MTech → Germany AI Research"
+# identity.py  ·  somesh.bharathwaj
+@@ -140,9 +131,7 @@ class SomeshBharathwaj:
 ```
 
 </td>
 <td width="47%" valign="top">
 
-```
-┌─────────────────────────────────────────────┐
-│  BUILD LOG  ·  ACTIVE INTELLIGENCE SYSTEMS  │
-│  ─────────────────────────────────────────  │
-│                                             │
-│  [01] EVOLAB RAG PIPELINE             🔥   │
-│       Adaptive Chunking · VectorDB         │
-│       Eval Framework · Precision Tests     │
-│       ████████░░  80%  [  ACTIVE  ]        │
-│                                             │
-│  [02] INVOICE EXTRACTOR               ⚡   │
-│       OCR · Transformer NLP                │
-│       Layout-Variance Doc Parse            │
-│       █████░░░░░  50%  [  BUILD   ]        │
-│                                             │
-│  [03] RFID + AI ACCOUNTABILITY        🗺   │
-│       Embedded · Scale · Reliability       │
-│       Institutional Intelligence           │
-│       ██░░░░░░░░  20%  [  PLAN    ]        │
-│                                             │
-│  [04] ALGORITHMS  —  COURSERA         📐   │
-│       Graphs · DP · Optimisation           │
-│       ██████░░░░  60%  [  GOING   ]        │
-│                                             │
-├─────────────────────────────────────────────┤
-│  SYSTEM TELEMETRY                           │
-│  Research mode   ████████████  ENGAGED     │
-│  Collab channel  ████████████  OPEN        │
-│  Germany track   ████░░░░░░░░  LOADING     │
-└─────────────────────────────────────────────┘
-```
+<br/>
+<td width="46%" valign="top">
 
-</td>
-</tr>
-</table>
+```
+ BUILD  LOG
+@@ -180,20 +169,21 @@ class SomeshBharathwaj:
 
 <br/>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:010010,40:312e81,60:312e81,100:010010&height=1&width=100%"/></div>
-
-<br/>
-
-<!-- ════════════════════ MOD-02 · AI SYSTEMS ARCHITECTURE ════════════════════ -->
-
+<!-- thin waving separator -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0720,50:180d55,100:0b0720&height=60&section=header&reversal=true"/>
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:010010,50:1e1b4b,100:010010&height=48&section=header&text=%5B%20MOD-02%20%5D%20%C2%B7%20AI%20SYSTEMS%20ARCHITECTURE&fontSize=15&fontColor=6366f1&animation=fadeIn&fontAlignY=68"/>
-</div>
-
-<div align="center">
-
-```
-  RETRIEVAL PIPELINE ARCHITECTURE
-  ──────────────────────────────────────────────────────────────────────────
-
-  [CORPUS]──▶[CHUNKER]──▶[EMBEDDER]──▶[VECTOR INDEX]──▶[RETRIEVER]──▶[LLM]
-      │                       │               │               │
-   raw docs            bi-encoder        FAISS/Chroma     ANN search
-   PDFs/HTML           fine-tuned        quantized        top-k rerank
-   structured          contrastive       HNSW graph       precision eval
-
-  ──────────────────────────────────────────────────────────────────────────
-  EVAL:  [RAGAS] ──▶ [ faithfulness · relevance · context recall ] ──▶ ⟳
-  ──────────────────────────────────────────────────────────────────────────
-```
-
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0720,50:180d55,100:0b0720&height=60&section=header&reversal=true"/>
 </div>
 
 <br/>
 
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                      RESEARCH DOMAINS                               -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<br/>
+
 <div align="center">
-<table width="92%" border="0" cellspacing="6">
+
+<h2>◈ &nbsp; Research Domains</h2>
+
+<table width="90%">
+<table width="92%" cellspacing="0" cellpadding="6">
 <tr>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/RETRIEVAL_SYSTEMS-1e1b4b?style=for-the-badge"/>
-<br/><sub>Dense · Sparse · Hybrid · ANN<br/>Re-ranking · Precision at K</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/LLMs_%26_AGENTS-1e1b4b?style=for-the-badge"/>
-<br/><sub>CoT · Tool Use · Structured Output<br/>RAGAS Evaluation Frameworks</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/EMBEDDING_MODELS-1e1b4b?style=for-the-badge"/>
-<br/><sub>Bi-encoders · Contrastive Training<br/>STS · Fine-tuning · Adaptation</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/RAG_ARCHITECTURE-1e1b4b?style=for-the-badge"/>
-<br/><sub>Chunk → Index → Re-rank → Eval<br/>End-to-end Quality Metrics</sub>
+  <img src="https://img.shields.io/badge/Retrieval%20Systems-0d0a1a?style=flat-square&logo=elasticsearch&logoColor=8b5cf6"/>
+@@ -212,7 +202,9 @@ class SomeshBharathwaj:
+  <br/><sub>Chunk · Index · Re-rank</sub>
 </td>
 </tr>
 <tr><td colspan="4" height="10"></td></tr>
 <tr>
+<td colspan="4" height="8"></td>
+</tr>
+<tr>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/VECTOR_DATABASES-140a40?style=for-the-badge"/>
-<br/><sub>FAISS · Chroma · Pinecone<br/>HNSW · Quantization · Scaling</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/FINE--TUNING-140a40?style=for-the-badge"/>
-<br/><sub>LoRA · QLoRA · PEFT<br/>Task-Specific Alignment</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/ML_THEORY-140a40?style=for-the-badge"/>
-<br/><sub>Transformers · Attention Mechanics<br/>Scaling Laws · RLHF Concepts</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/SYSTEMS_DESIGN-140a40?style=for-the-badge"/>
-<br/><sub>Eval Infra · Serving · Hardening<br/>Production ML Lifecycle</sub>
+  <img src="https://img.shields.io/badge/Vector%20Databases-160b52?style=flat-square&logo=databricks&logoColor=8b5cf6"/>
+@@ -232,28 +224,30 @@ class SomeshBharathwaj:
 </td>
 </tr>
 </table>
+
 </div>
 
 <br/>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:010010,40:312e81,60:312e81,100:010010&height=1&width=100%"/></div>
+<!-- thin waving separator -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0720,50:180d55,100:0b0720&height=60&section=footer&reversal=false"/>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0720,50:180d55,100:0b0720&height=60&section=footer&reversal=false"/>
+</div>
 
 <br/>
 
-<!-- ══════════════════════ MOD-03 · INTELLIGENCE STACK ═══════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                         PROJECTS                                    -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:010010,50:1e1b4b,100:010010&height=48&section=header&text=%5B%20MOD-03%20%5D%20%C2%B7%20INTELLIGENCE%20STACK&fontSize=15&fontColor=6366f1&animation=fadeIn&fontAlignY=68"/>
+<h2>◈ &nbsp; Projects</h2>
+  <h2>◈ &nbsp; Projects</h2>
 </div>
 
+<table width="100%">
+<table width="100%" cellspacing="0" cellpadding="12">
+<tr>
+
+<td width="33%" valign="top">
+<td width="33%" valign="top" align="left">
+
 <div align="center">
+
+`01 · RAG Pipeline`
+@@ -271,16 +265,19 @@ stage  active          ████████░░  80%
+<sub>Production RAG pipeline — adaptive chunking, vector indexing, end-to-end evaluation. Focused on retrieval precision and generation quality benchmarking at scale.</sub>
+
+<br/>
+
+<div align="center">
+<img src="https://img.shields.io/badge/●%20active-4c1d95?style=flat-square&labelColor=0d0a1a"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Python-0d0a1a?style=flat-square&logo=python&logoColor=8b5cf6"/>
+<img src="https://img.shields.io/badge/LangChain-0d0a1a?style=flat-square&logo=chainlink&logoColor=8b5cf6"/>
+<img src="https://img.shields.io/badge/VectorDB-0d0a1a?style=flat-square&logoColor=8b5cf6"/>
+  <img src="https://img.shields.io/badge/●%20active-4c1d95?style=flat-square&labelColor=0d0a1a"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Python-0d0a1a?style=flat-square&logo=python&logoColor=8b5cf6"/>
+  <img src="https://img.shields.io/badge/LangChain-0d0a1a?style=flat-square&logo=chainlink&logoColor=8b5cf6"/>
+  <img src="https://img.shields.io/badge/VectorDB-0d0a1a?style=flat-square&logoColor=8b5cf6"/>
+</div>
+
+</td>
+
+<td width="33%" valign="top">
+<td width="33%" valign="top" align="left">
+
+<div align="center">
+
+`02 · Invoice Extractor`
+@@ -298,16 +295,19 @@ stage  building        █████░░░░░  50%
+<sub>Intelligent doc processing for invoice field extraction across high layout variance — transformer-backed classification and multi-format field normalisation.</sub>
+
+<br/>
+
+<div align="center">
+<img src="https://img.shields.io/badge/●%20building-4c1d95?style=flat-square&labelColor=0d0a1a"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Python-0d0a1a?style=flat-square&logo=python&logoColor=8b5cf6"/>
+<img src="https://img.shields.io/badge/OCR-0d0a1a?style=flat-square&logoColor=8b5cf6"/>
+<img src="https://img.shields.io/badge/HuggingFace-0d0a1a?style=flat-square&logo=huggingface&logoColor=8b5cf6"/>
+  <img src="https://img.shields.io/badge/●%20building-4c1d95?style=flat-square&labelColor=0d0a1a"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Python-0d0a1a?style=flat-square&logo=python&logoColor=8b5cf6"/>
+  <img src="https://img.shields.io/badge/OCR-0d0a1a?style=flat-square&logoColor=8b5cf6"/>
+  <img src="https://img.shields.io/badge/HuggingFace-0d0a1a?style=flat-square&logo=huggingface&logoColor=8b5cf6"/>
+</div>
+
+</td>
+
+<td width="33%" valign="top">
+<td width="33%" valign="top" align="left">
+
+<div align="center">
+
+`03 · RFID System`
+@@ -325,31 +325,34 @@ stage  planning        ██░░░░░░░░  20%
+<sub>AI + embedded architecture for institutional-scale tracking. Built ground-up for real-world reliability and accountability across a live institution.</sub>
+
+<br/>
+
+<div align="center">
+<img src="https://img.shields.io/badge/○%20planning-4c1d95?style=flat-square&labelColor=0d0a1a"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Python-0d0a1a?style=flat-square&logo=python&logoColor=8b5cf6"/>
+<img src="https://img.shields.io/badge/Embedded-0d0a1a?style=flat-square&logoColor=8b5cf6"/>
+<img src="https://img.shields.io/badge/RFID-0d0a1a?style=flat-square&logoColor=8b5cf6"/>
+  <img src="https://img.shields.io/badge/○%20planning-4c1d95?style=flat-square&labelColor=0d0a1a"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Python-0d0a1a?style=flat-square&logo=python&logoColor=8b5cf6"/>
+  <img src="https://img.shields.io/badge/Embedded-0d0a1a?style=flat-square&logoColor=8b5cf6"/>
+  <img src="https://img.shields.io/badge/RFID-0d0a1a?style=flat-square&logoColor=8b5cf6"/>
+</div>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<!-- thin waving separator -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0720,50:180d55,100:0b0720&height=60&section=header&reversal=true"/>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0720,50:180d55,100:0b0720&height=60&section=header&reversal=true"/>
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                         TECH STACK                                  -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<br/>
+
+<div align="center">
+
+<h2>◈ &nbsp; Tech Stack</h2>
 
 <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,git,linux,vscode,jupyter&theme=dark&perline=8"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/HuggingFace-1e1b4b?style=for-the-badge&logo=huggingface&logoColor=818cf8"/>
-<img src="https://img.shields.io/badge/LangChain-0d1424?style=for-the-badge&logo=chainlink&logoColor=818cf8"/>
-<img src="https://img.shields.io/badge/OpenAI_API-0a0a1e?style=for-the-badge&logo=openai&logoColor=818cf8"/>
-<img src="https://img.shields.io/badge/FAISS-140a40?style=for-the-badge&logoColor=818cf8"/>
-<img src="https://img.shields.io/badge/ChromaDB-100835?style=for-the-badge&logoColor=818cf8"/>
+@@ -372,18 +375,18 @@ stage  planning        ██░░░░░░░░  20%
 
 <br/>
 
-<img src="https://img.shields.io/badge/scikit--learn-071a10?style=for-the-badge&logo=scikitlearn&logoColor=10b981"/>
-<img src="https://img.shields.io/badge/NumPy-061414?style=for-the-badge&logo=numpy&logoColor=10b981"/>
-<img src="https://img.shields.io/badge/Pandas-061414?style=for-the-badge&logo=pandas&logoColor=10b981"/>
-<img src="https://img.shields.io/badge/Pinecone-071a10?style=for-the-badge&logoColor=10b981"/>
-<img src="https://img.shields.io/badge/RAGAS-071a10?style=for-the-badge&logoColor=10b981"/>
-
+<!-- thin waving separator -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0720,50:180d55,100:0b0720&height=60&section=footer&reversal=false"/>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0720,50:180d55,100:0b0720&height=60&section=footer&reversal=false"/>
 </div>
 
 <br/>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:010010,40:312e81,60:312e81,100:010010&height=1&width=100%"/></div>
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                     GITHUB STATS DASHBOARD                          -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <br/>
-
-<!-- ══════════════════ MOD-04 · ACTIVE INTELLIGENCE PIPELINES ════════════════ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:010010,50:1e1b4b,100:010010&height=48&section=header&text=%5B%20MOD-04%20%5D%20%C2%B7%20ACTIVE%20INTELLIGENCE%20PIPELINES&fontSize=15&fontColor=6366f1&animation=fadeIn&fontAlignY=68"/>
-</div>
-
-<table width="100%" border="0" cellspacing="0" cellpadding="10">
-<tr>
-
-<td width="33%" valign="top" align="center">
-
-<img src="https://img.shields.io/badge/SYS__01_%C2%B7_RAG_PIPELINE-4338ca?style=for-the-badge&labelColor=1e1b4b"/>
-
-<br/><br/>
-
-**Evolab · Production RAG**
-
-```
-class     retrieval-augmented gen
-runtime   Python · LangChain
-index     FAISS · ChromaDB
-stage     ████████░░  80%
-signal    🔥  ACTIVE
-```
-
-Adaptive chunking strategy · multi-modal vector indexing · end-to-end RAGAS evaluation · retrieval precision + answer quality benchmarking at scale.
-
-<br/>
-
-<img src="https://img.shields.io/badge/Python-080820?style=flat-square&logo=python&logoColor=6366f1"/>
-<img src="https://img.shields.io/badge/LangChain-080820?style=flat-square&logoColor=6366f1"/>
-<img src="https://img.shields.io/badge/FAISS-080820?style=flat-square&logoColor=6366f1"/>
-<img src="https://img.shields.io/badge/RAGAS-080820?style=flat-square&logoColor=6366f1"/>
-
-</td>
-
-<td width="33%" valign="top" align="center">
-
-<img src="https://img.shields.io/badge/SYS__02_%C2%B7_DOC_INTELLIGENCE-4338ca?style=for-the-badge&labelColor=1e1b4b"/>
-
-<br/><br/>
-
-**Invoice · Document AI**
-
-```
-class     structured extraction
-runtime   Python · OCR
-model     Transformers · NLP
-stage     █████░░░░░  50%
-signal    ⚡  BUILD
-```
-
-High layout-variance document intelligence · transformer-backed field classification · zero-shot cross-format extraction · multi-document normalisation pipeline.
-
-<br/>
-
-<img src="https://img.shields.io/badge/Python-080820?style=flat-square&logo=python&logoColor=6366f1"/>
-<img src="https://img.shields.io/badge/OCR-080820?style=flat-square&logoColor=6366f1"/>
-<img src="https://img.shields.io/badge/HuggingFace-080820?style=flat-square&logo=huggingface&logoColor=6366f1"/>
-
-</td>
-
-<td width="33%" valign="top" align="center">
-
-<img src="https://img.shields.io/badge/SYS__03_%C2%B7_EMBEDDED_AI-4338ca?style=for-the-badge&labelColor=1e1b4b"/>
-
-<br/><br/>
-
-**RFID · Embedded Intelligence**
-
-```
-class     AI + embedded infra
-runtime   Python · C · RFID
-layer     Hardware · IoT
-stage     ██░░░░░░░░  20%
-signal    🗺  PLAN
-```
-
-AI + embedded architecture for institutional-scale accountability · ground-up reliability engineering · hardware-software intelligence integration at live institution scope.
-
-<br/>
-
-<img src="https://img.shields.io/badge/Python-080820?style=flat-square&logo=python&logoColor=6366f1"/>
-<img src="https://img.shields.io/badge/Embedded-080820?style=flat-square&logoColor=6366f1"/>
-<img src="https://img.shields.io/badge/RFID-080820?style=flat-square&logoColor=6366f1"/>
-
-</td>
-
-</tr>
-</table>
-
-<br/>
-
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:010010,40:312e81,60:312e81,100:010010&height=1&width=100%"/></div>
-
-<br/>
-
-<!-- ════════════════════════ MOD-05 · RESEARCH ANALYTICS ═════════════════════ -->
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:010010,50:1e1b4b,100:010010&height=48&section=header&text=%5B%20MOD-05%20%5D%20%C2%B7%20RESEARCH%20ANALYTICS&fontSize=15&fontColor=6366f1&animation=fadeIn&fontAlignY=68"/>
+<h2>◈ &nbsp; GitHub Stats</h2>
+  <h2>◈ &nbsp; GitHub Stats</h2>
 </div>
 
 <details>
-<summary align="center"><b>&nbsp;▸ &nbsp; LOAD RESEARCH ANALYTICS PANEL</b></summary>
-
-<br/>
+@@ -393,39 +396,37 @@ stage  planning        ██░░░░░░░░  20%
 
 <div align="center">
 
-<sub><code>[ OUTPUT SIGNAL · COMMIT TELEMETRY · LANGUAGE DISTRIBUTION ]</code></sub>
-
-<br/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=someshbharathwaj-ops&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=04001e&title_color=6366f1&icon_color=4338ca&text_color=c7d2fe&ring_color=312e81&border_radius=10&custom_title=output+signal+telemetry"/>
-&nbsp;&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=someshbharathwaj-ops&layout=compact&hide_border=true&bg_color=04001e&title_color=6366f1&text_color=c7d2fe&border_radius=10&custom_title=language+distribution&langs_count=6"/>
+<!-- PERFORMANCE -->
+<img width="70%" src="https://github-readme-stats.vercel.app/api?username=someshbharathwaj-ops&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0b0720&title_color=9d7fef&icon_color=6d28d9&text_color=c4b5fd&ring_color=4c1d95&border_radius=12"/>
+<img width="68%" src="https://github-readme-stats.vercel.app/api?username=someshbharathwaj-ops&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0b0720&title_color=9d7fef&icon_color=6d28d9&text_color=c4b5fd&ring_color=4c1d95&border_radius=12"/>
 
 <br/><br/>
 
-<sub><code>[ RESEARCH RHYTHM · COMMIT STREAK · CONSISTENCY SIGNAL ]</code></sub>
-
-<br/>
-
-<img width="65%" src="https://streak-stats.demolab.com?user=someshbharathwaj-ops&hide_border=true&background=04001e&stroke=312e81&ring=4338ca&fire=6366f1&currStreakLabel=c7d2fe&sideLabels=c7d2fe&currStreakNum=e0e7ff&sideNums=e0e7ff&dates=4338ca&border_radius=10&date_format=j%20M%5B%2C%20Y%5D&mode=daily"/>
+<!-- DAY-WISE STREAK -->
+<img width="70%" src="https://streak-stats.demolab.com?user=someshbharathwaj-ops&hide_border=true&background=0b0720&stroke=4c1d95&ring=6d28d9&fire=9d7fef&currStreakLabel=c4b5fd&sideLabels=c4b5fd&currStreakNum=ede9ff&sideNums=ede9ff&dates=8b5cf6&border_radius=12&date_format=j%20M%5B%2C%20Y%5D&mode=daily"/>
+<img width="68%" src="https://streak-stats.demolab.com?user=someshbharathwaj-ops&hide_border=true&background=0b0720&stroke=4c1d95&ring=6d28d9&fire=9d7fef&currStreakLabel=c4b5fd&sideLabels=c4b5fd&currStreakNum=ede9ff&sideNums=ede9ff&dates=8b5cf6&border_radius=12&date_format=j%20M%5B%2C%20Y%5D&mode=daily"/>
 
 <br/><br/>
 
-<sub><code>[ EXPERIMENTATION RHYTHM · DAILY COMMIT VELOCITY ]</code></sub>
-
-<br/>
-
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=someshbharathwaj-ops&hide_border=true&area=true&bg_color=04001e&color=6366f1&line=4338ca&point=c7d2fe&area_color=1e1b4b&custom_title=commit+velocity+%E2%80%94+research+experimentation+rhythm&radius=10"/>
+<!-- CONTRIBUTION GRAPH -->
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=someshbharathwaj-ops&hide_border=true&area=true&bg_color=0b0720&color=9d7fef&line=6d28d9&point=c4b5fd&area_color=180d55&custom_title=daily+commit+activity&radius=12"/>
+<img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=someshbharathwaj-ops&hide_border=true&area=true&bg_color=0b0720&color=9d7fef&line=6d28d9&point=c4b5fd&area_color=180d55&custom_title=daily+commit+activity&radius=12"/>
 
 </div>
 
@@ -394,96 +307,114 @@ AI + embedded architecture for institutional-scale accountability · ground-up r
 
 <br/>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:010010,40:312e81,60:312e81,100:010010&height=1&width=100%"/></div>
+<!-- thin waving separator -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0720,50:180d55,100:0b0720&height=60&section=header&reversal=true"/>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0720,50:180d55,100:0b0720&height=60&section=header&reversal=true"/>
+</div>
 
 <br/>
 
-<!-- ════════════════════════ MOD-06 · KNOWLEDGE GRAPH ════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                        SKILL MATRIX                                 -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:010010,50:1e1b4b,100:010010&height=48&section=header&text=%5B%20MOD-06%20%5D%20%C2%B7%20KNOWLEDGE%20GRAPH&fontSize=15&fontColor=6366f1&animation=fadeIn&fontAlignY=68"/>
-</div>
 
-<div align="center">
-<table width="92%" border="0" cellspacing="0">
+<h2>◈ &nbsp; Skill Matrix</h2>
+
+<table width="88%">
+<table width="90%" cellspacing="0" cellpadding="0">
 <tr>
 <td width="50%" valign="top">
 
-```
-CORE SYSTEMS  ·  CAPABILITY SIGNAL
-──────────────────────────────────────────
- RAG Engineering     ██████████  ■ ■ ■
- Python / ML Libs    ██████████  ■ ■ ■
- LLM Engineering     █████████░  ■ ■ ○
- Vector Search       █████████░  ■ ■ ○
- Embedding Models    ████████░░  ■ ■ ○
- ML Evaluation       ████████░░  ■ ■ ○
- Fine-Tuning (LoRA)  ██████░░░░  ■ ○ ○
- Algorithms & DS     ███████░░░  ■ ○ ○
-──────────────────────────────────────────
- ■■■ deep  ·  ■■○ solid  ·  ■○○ growing
-```
-
-</td>
-<td width="50%" valign="top">
-
-```
-RESEARCH ORIENTATION  ·  COGNITIVE PROFILE
-──────────────────────────────────────────
- Research Depth      ██████████   10
- Systems Thinking    ██████████   10
- First Principles    ██████████   10
- Build Depth         █████████░    9
- Documentation       ████████░░    8
- Open-Source Intent  ████████░░    8
- Infra Mindset       ███████░░░    7
- Algo Foundations    ███████░░░    7
-──────────────────────────────────────────
- calibrated  ·  verified  ·  no inflation
-```
-
+@@ -463,86 +464,121 @@ stage  planning        ██░░░░░░░░  20%
 </td>
 </tr>
 </table>
+
 </div>
 
 <br/>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:010010,40:312e81,60:312e81,100:010010&height=1&width=100%"/></div>
+<!-- thin waving separator -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0720,50:180d55,100:0b0720&height=60&section=footer&reversal=false"/>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0720,50:180d55,100:0b0720&height=60&section=footer&reversal=false"/>
+</div>
 
 <br/>
 
-<!-- ══════════════════════ MOD-07 · LEARNING TRAJECTORY ══════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                      LEARNING ROADMAP                               -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:010010,50:1e1b4b,100:010010&height=48&section=header&text=%5B%20MOD-07%20%5D%20%C2%B7%20LEARNING%20TRAJECTORY&fontSize=15&fontColor=6366f1&animation=fadeIn&fontAlignY=68"/>
+<h2>◈ &nbsp; Learning Roadmap</h2>
+  <h2>◈ &nbsp; Learning Roadmap</h2>
 </div>
 
 <details>
-<summary align="center"><b>&nbsp;▸ &nbsp; LOAD TRAJECTORY ENGINE</b></summary>
+<summary><b>&nbsp;↓ &nbsp; courses &amp; study areas</b></summary>
+<summary align="center"><b>&nbsp;↓ &nbsp; courses &amp; study areas</b></summary>
 
 <br/>
 
 <div align="center">
 
-| ID | Course / Research Area | Source | Status |
-|:---:|:---|:---|:---:|
-| `TR-01` | Algorithms — Graphs · DP · Optimisation | Univ. Colorado · Coursera | ![](https://img.shields.io/badge/IN_PROGRESS-312e81?style=flat-square&labelColor=080820) |
-| `TR-02` | Data Analysis with Python | Self-directed | ![](https://img.shields.io/badge/IN_PROGRESS-312e81?style=flat-square&labelColor=080820) |
-| `TR-03` | Introduction to RAG Systems | Self-directed | ![](https://img.shields.io/badge/%E2%9C%93_COMPLETE-065f46?style=flat-square&labelColor=080820) |
-| `TR-04` | ML Fundamentals | Self-directed | ![](https://img.shields.io/badge/ONGOING-1e1b4b?style=flat-square&labelColor=080820) |
-| `TR-05` | Embedding Models & Dense Retrieval | Self-directed | ![](https://img.shields.io/badge/ONGOING-1e1b4b?style=flat-square&labelColor=080820) |
+| # | Course / Topic | Source | Status |
+|:--:|:--|:--|:--:|
+| `01` | Algorithms — Graphs · DP · Optimisation | Univ. of Colorado, Coursera | ![](https://img.shields.io/badge/in%20progress-4c1d95?style=flat-square&labelColor=0d0a1a) |
+| `02` | Data Analysis with Python | Self-directed | ![](https://img.shields.io/badge/in%20progress-4c1d95?style=flat-square&labelColor=0d0a1a) |
+| `03` | Introduction to RAG | Self-directed | ![](https://img.shields.io/badge/completed-15803d?style=flat-square&labelColor=052e16) |
+| `04` | ML Fundamentals | Self-directed | ![](https://img.shields.io/badge/ongoing-3b0764?style=flat-square&labelColor=0d0a1a) |
+| `05` | Embedding Models & Dense Retrieval | Self-directed | ![](https://img.shields.io/badge/ongoing-3b0764?style=flat-square&labelColor=0d0a1a) |
+<table width="92%" cellspacing="0" cellpadding="6">
+<tr>
+<th align="center" width="6%">#</th>
+<th align="left" width="44%">Course / Topic</th>
+<th align="left" width="30%">Source</th>
+<th align="center" width="20%">Status</th>
+</tr>
+<tr>
+<td align="center"><code>01</code></td>
+<td>Algorithms — Graphs · DP · Optimisation</td>
+<td>Univ. of Colorado, Coursera</td>
+<td align="center"><img src="https://img.shields.io/badge/in%20progress-4c1d95?style=flat-square&labelColor=0d0a1a"/></td>
+</tr>
+<tr>
+<td align="center"><code>02</code></td>
+<td>Data Analysis with Python</td>
+<td>Self-directed</td>
+<td align="center"><img src="https://img.shields.io/badge/in%20progress-4c1d95?style=flat-square&labelColor=0d0a1a"/></td>
+</tr>
+<tr>
+<td align="center"><code>03</code></td>
+<td>Introduction to RAG</td>
+<td>Self-directed</td>
+<td align="center"><img src="https://img.shields.io/badge/completed-15803d?style=flat-square&labelColor=052e16"/></td>
+</tr>
+<tr>
+<td align="center"><code>04</code></td>
+<td>ML Fundamentals</td>
+<td>Self-directed</td>
+<td align="center"><img src="https://img.shields.io/badge/ongoing-3b0764?style=flat-square&labelColor=0d0a1a"/></td>
+</tr>
+<tr>
+<td align="center"><code>05</code></td>
+<td>Embedding Models &amp; Dense Retrieval</td>
+<td>Self-directed</td>
+<td align="center"><img src="https://img.shields.io/badge/ongoing-3b0764?style=flat-square&labelColor=0d0a1a"/></td>
+</tr>
+</table>
 
 <br/>
 
-```
-DEEP-DIVE RESEARCH ZONES
-──────────────────────────────────────────────────────────────────────
-  LLM internals · RAG evaluation metrics · dense vs sparse retrieval
-  embedding fine-tuning strategies · ML system design patterns
-  transformer architecture · attention mechanisms · RLHF concepts
-──────────────────────────────────────────────────────────────────────
-```
+> `deep-dives` &nbsp; LLM internals &nbsp;·&nbsp; RAG evaluation &nbsp;·&nbsp; dense vs sparse retrieval &nbsp;·&nbsp; embedding fine-tuning &nbsp;·&nbsp; ML system design
 
 </div>
 
@@ -491,70 +422,98 @@ DEEP-DIVE RESEARCH ZONES
 
 <br/>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:010010,40:312e81,60:312e81,100:010010&height=1&width=100%"/></div>
+<!-- thin waving separator -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0720,50:180d55,100:0b0720&height=60&section=header&reversal=true"/>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0720,50:180d55,100:0b0720&height=60&section=header&reversal=true"/>
+</div>
 
 <br/>
 
-<!-- ═══════════════════════════ MOD-08 · MISSION PROTOCOL ════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                         MISSION LOG                                 -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:010010,50:1e1b4b,100:010010&height=48&section=header&text=%5B%20MOD-08%20%5D%20%C2%B7%20MISSION%20PROTOCOL&fontSize=15&fontColor=6366f1&animation=fadeIn&fontAlignY=68"/>
-</div>
 
-<div align="center">
-<table width="82%" border="0" cellspacing="0" cellpadding="10">
+<h2>◈ &nbsp; Mission Log</h2>
+
+<table width="80%">
+<table width="82%" cellspacing="0" cellpadding="6">
 <tr>
-<td align="right" width="100px"><img src="https://img.shields.io/badge/T--0-312e81?style=flat-square&labelColor=080820"/></td>
-<td>Ship Evolab RAG system with full RAGAS eval coverage · invoice extractor to production state</td>
+<td align="right" width="10%"><sub><b>short</b></sub></td>
+<td width="4%" align="center"><sub>→</sub></td>
+<td align="right" width="10%" nowrap><sub><b>short</b></sub></td>
+<td width="3%" align="center"><sub>→</sub></td>
+<td><sub>Ship RAG system @ Evolab with solid eval coverage &nbsp;·&nbsp; complete invoice extractor</sub></td>
 </tr>
+<tr><td colspan="3" height="6"></td></tr>
+<tr><td colspan="3" height="4"></td></tr>
 <tr>
-<td align="right"><img src="https://img.shields.io/badge/T--1-312e81?style=flat-square&labelColor=080820"/></td>
-<td>Deep ML + algorithms foundation · significant open-source NLP / RAG infrastructure contributions</td>
+<td align="right"><sub><b>mid</b></sub></td>
+<td align="right" nowrap><sub><b>mid</b></sub></td>
+<td align="center"><sub>→</sub></td>
+<td><sub>Strong ML + algorithms foundation &nbsp;·&nbsp; meaningful open-source contributions in NLP / RAG</sub></td>
 </tr>
+<tr><td colspan="3" height="6"></td></tr>
+<tr><td colspan="3" height="4"></td></tr>
 <tr>
-<td align="right"><img src="https://img.shields.io/badge/T--2-312e81?style=flat-square&labelColor=080820"/></td>
-<td>Fully funded MS / MTech at top-tier AI research institution · Germany orbit: Tübingen · TUM · ETH</td>
+<td align="right"><sub><b>long</b></sub></td>
+<td align="right" nowrap><sub><b>long</b></sub></td>
+<td align="center"><sub>→</sub></td>
+<td><sub>Fully funded MS / MTech in Germany or equivalent top-tier AI research institution</sub></td>
 </tr>
+<tr><td colspan="3" height="6"></td></tr>
+<tr><td colspan="3" height="4"></td></tr>
 <tr>
-<td align="right"><img src="https://img.shields.io/badge/AXIOM-1e1b4b?style=flat-square&labelColor=040018"/></td>
-<td><i>Depth over breadth. &nbsp; Systems over hype. &nbsp; Build infrastructure that outlasts the model.</i></td>
+<td align="right"><sub><b>axiom</b></sub></td>
+<td align="right" nowrap><sub><b>axiom</b></sub></td>
+<td align="center"><sub>→</sub></td>
+<td><sub><i>Depth over breadth. &nbsp; Systems over hype. &nbsp; Build things that last.</i></sub></td>
 </tr>
 </table>
+
 </div>
 
-<br/>
-
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:010010,40:312e81,60:312e81,100:010010&height=1&width=100%"/></div>
-
-<br/>
-
-<!-- ══════════════════════ MOD-09 · COLLABORATION GATEWAY ════════════════════ -->
+<br/><br/>
+@@ -552,25 +588,33 @@ stage  planning        ██░░░░░░░░  20%
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:010010,50:1e1b4b,100:010010&height=48&section=header&text=%5B%20MOD-09%20%5D%20%C2%B7%20COLLABORATION%20GATEWAY&fontSize=15&fontColor=6366f1&animation=fadeIn&fontAlignY=68"/>
+<h2>◈ &nbsp; Connect</h2>
 
 <br/>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/somesh-bharathwaj-35b413212)
 <a href="https://linkedin.com/in/somesh-bharathwaj-35b413212">
-<img src="https://img.shields.io/badge/LinkedIn-0a0a2e?style=for-the-badge&logo=linkedin&logoColor=93c5fd"/>
-</a>&nbsp;
+  <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/someshbharathwaj-ops)
 <a href="https://github.com/someshbharathwaj-ops">
-<img src="https://img.shields.io/badge/GitHub-050515?style=for-the-badge&logo=github&logoColor=c7d2fe"/>
-</a>&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:somesh.k.bharathwaj@gmail.com)
 <a href="mailto:somesh.k.bharathwaj@gmail.com">
-<img src="https://img.shields.io/badge/Email-150505?style=for-the-badge&logo=gmail&logoColor=fca5a5"/>
-</a>&nbsp;
+  <img src="https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919385657645)
 <a href="https://wa.me/919385657645">
-<img src="https://img.shields.io/badge/WhatsApp-051505?style=for-the-badge&logo=whatsapp&logoColor=86efac"/>
+  <img src="https://img.shields.io/badge/WhatsApp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=12&weight=400&duration=5000&pause=2500&color=312E81&center=true&vCenter=true&width=660&height=20&lines=%5BCOLLAB%5D+open+to+research+collaborations+%C2%B7+ML+internships+%C2%B7+AI+systems+conversations"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&weight=400&duration=5000&pause=2000&color=5B21B6&center=true&vCenter=true&width=580&height=22&lines=open+to+research+collabs+·+ML+internships+·+AI+systems+conversations"/>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:010010,15:04003a,35:080060,55:04003a,80:010010,100:010010&height=220&section=footer&animation=twinkling&reversal=true"/>
+<!-- FOOTER — waving, mirrors header colour, reversal=true flips the wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0720,25:180d55,50:251280,75:180d55,100:0b0720&height=200&section=footer&animation=twinkling&reversal=true"/>
 
 </div>
